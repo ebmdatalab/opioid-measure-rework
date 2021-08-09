@@ -1,0 +1,926 @@
+,presentation,bnf_code,dose_per_unit_x,new_ome_multiplier,ome_dose,name,unit_dose,dose_per_unit_y,total_ome,ome_diff,ome_diff_multi
+0,Mezolar Matrix 25micrograms/hour transdermal patches,0407020A0BFABAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+1,Morphine sulfate 20mg/ml oral solution sugar free,0407020Q0AAA6A6,20.0,1.0,20.0,Morphine sulfate 20mg/ml oral solution sugar free,1,20.0,20.0,0.0,1.0
+2,Physeptone 50mg/5ml solution for injection ampoules,0407020M0BBAEAN,50.0,3.0,150.0,Methadone 50mg/5ml solution for injection ampoules,5,10.0,30.0,-120.0,0.2
+3,Solpadol 30mg/500mg capsules,0407010F0BGACAD,30.0,0.1,3.0,Co-codamol 30mg/500mg capsules,1,30.0,3.0,0.0,1.0
+4,Morphine tartrate 15mg/1ml / Cyclizine tartrate 50mg inj amp,040702020AAABAB,15.0,2.0,30.0,Morphine tartrate 15mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,1,15.0,30.0,0.0,1.0
+5,Pethidine 100mg/2ml solution for injection ampoules,0407020V0AAAEAE,100.0,0.24,24.0,Pethidine 100mg/2ml solution for injection ampoules,2,50.0,12.0,-12.0,0.5
+6,Tramquel SR 200mg capsules,040702040BJADAJ,200.0,0.1,20.0,Tramadol 200mg modified-release capsules,1,200.0,20.0,0.0,1.0
+7,Zamadol SR 150mg capsules,040702040BDADAI,150.0,0.1,15.0,Tramadol 150mg modified-release capsules,1,150.0,15.0,0.0,1.0
+8,Physeptone 35mg/3.5ml solution for injection ampoules,0407020M0BBADAT,35.0,3.0,105.0,Methadone 35mg/3.5ml solution for injection ampoules,3.5,10.0,30.0,-75.0,0.2857142857142857
+9,Morphine sulfate 10mg/2ml solution for injection ampoules,0407020Q0AABCBC,10.0,2.0,20.0,Morphine sulfate 10mg/2ml solution for injection ampoules,2,5.0,10.0,-10.0,0.5
+10,Morphine sulfate 2.5mg/5ml solution for injection ampoules,0407020Q0AAAEAE,2.5,2.0,5.0,Morphine sulfate 2.5mg/5ml solution for injection ampoules,5,0.5,1.0,-4.0,0.2
+11,Diamorphine 60mg impregnated cigarettes,0407020K0AACGCG,60.0,1.0,60.0,Diamorphine 60mg impregnated cigarettes,1,60.0,60.0,0.0,1.0
+12,MXL 90mg capsules,0407020Q0BIACDU,90.0,1.0,90.0,Morphine 90mg modified-release capsules,1,90.0,90.0,0.0,1.0
+13,Bupeaze 52.5micrograms/hour transdermal patches,0407020B0BIABAF,5.04,100.0,504.0,Buprenorphine 52.5micrograms/hour transdermal patches,1,5.04,504.0,0.0,1.0
+14,Diamorphine 10mg tablets,0407020K0AACBCB,10.0,1.0,10.0,Diamorphine 10mg tablets,1,10.0,10.0,0.0,1.0
+15,Zamadol 24hr 200mg modified-release tablets,040702040BDAIAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+16,Oxypro 5mg modified-release tablets,0407020ADBSAAAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+17,MST Continus suspension 100mg granules sachets,0407020Q0BBAIDD,100.0,1.0,100.0,Morphine 100mg modified-release granules sachets sugar free,1,100.0,100.0,0.0,1.0
+18,Durogesic DTrans 100micrograms/hour transdermal patches,0407020A0BBALAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+19,Zomorph 200mg modified-release capsules,0407020Q0BKAEEI,200.0,1.0,200.0,Morphine 200mg modified-release capsules,1,200.0,200.0,0.0,1.0
+20,Hydromorphone 16mg modified-release capsules,040702050AAAAAA,16.0,5.0,80.0,Hydromorphone 16mg modified-release capsules,1,16.0,80.0,0.0,1.0
+21,Morphine 50mg tablets,0407020Q0AADRDR,50.0,1.0,50.0,Morphine 50mg tablets,1,50.0,50.0,0.0,1.0
+22,Palladone SR 2mg capsules,040702050BBACAF,2.0,5.0,10.0,Hydromorphone 2mg modified-release capsules,1,2.0,10.0,0.0,1.0
+23,Oxycodone hydrochloride 60mg suppositories,0407020Z0AAABAB,60.0,2.0,120.0,Oxycodone hydrochloride 60mg suppositories,1,60.0,90.0,-30.0,0.75
+24,Morphine tartrate 10mg/1ml / Cyclizine tartrate 50mg inj amp,040702020AAAAAA,10.0,2.0,20.0,Morphine tartrate 10mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,1,10.0,20.0,0.0,1.0
+25,Morphine sulfate 60mg/5ml oral solution,0407020Q0AAESES,12.0,1.0,12.0,Morphine sulfate 60mg/5ml oral solution,1,12.0,12.0,0.0,1.0
+26,Dihydrocodeine 30mg/5ml oral solution,0407020G0AAAMAM,6.0,0.1,0.6,Dihydrocodeine 30mg/5ml oral solution,1,6.0,0.6,0.0,1.0
+27,Nobligan retard 100mg tablets,040702040BMAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+28,Morphine 10mg modified-release tablets,0407020Q0AAAKAK,10.0,1.0,10.0,Morphine 10mg modified-release tablets,1,10.0,10.0,0.0,1.0
+29,Longtec 15mg modified-release tablets,0407020ADBEAGAS,15.0,2.0,30.0,Oxycodone 15mg modified-release tablets,1,15.0,22.5,-7.5,0.75
+30,Fentanyl 50micrograms/hour transdermal patches,0407020A0AAAFAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+31,Tapentadol 250mg modified-release tablets,0407020AGAAAGAG,250.0,0.4,100.0,Tapentadol 250mg modified-release tablets,1,250.0,100.0,0.0,1.0
+32,Morphine 100mg modified-release granules sachets sugar free,0407020Q0AADDDD,100.0,1.0,100.0,Morphine 100mg modified-release granules sachets sugar free,1,100.0,100.0,0.0,1.0
+33,Osmach 75micrograms/hour transdermal patches,0407020A0BHACAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+34,Co-dydramol 10mg/500mg tablets,0407010N0AAAAAA,10.0,0.1,1.0,Co-dydramol 10mg/500mg tablets,1,10.0,1.0,0.0,1.0
+35,Buprenorphine 35micrograms/hour transdermal patches,0407020B0AAAEAE,3.36,100.0,336.0,Buprenorphine 35micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+36,Meptid 200mg tablets,0407020L0BBAAAB,200.0,0.03,6.0,Meptazinol 200mg tablets,1,200.0,6.0,0.0,1.0
+37,Morphine 0.2% gel,0407020Q0AAFUFU,,,0.0,,,,,,
+38,Diamorphine 5mg suppositories,0407020K0AACUCU,5.0,3.0,15.0,Diamorphine 5mg suppositories,1,5.0,5.0,-10.0,0.3333333333333333
+39,Fentanyl 12micrograms/hour transdermal patches,0407020A0AAAUAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+40,Tramadol 200mg modified-release tablets,040702040AAAEAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+41,Oxypro 40mg modified-release tablets,0407020ADBSAFAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+42,Abstral 600microgram sublingual tablets,0407020A0BJAEBA,0.6,130.0,78.0,Fentanyl 600microgram sublingual tablets sugar free,1,0.6,78.0,0.0,1.0
+43,MST Continus suspension 200mg granules sachets,0407020Q0BBAJDE,200.0,1.0,200.0,Morphine 200mg modified-release granules sachets sugar free,1,200.0,200.0,0.0,1.0
+44,Carexil 10mg modified-release tablets,0407020ADBDABAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+45,Hydromorphone 10mg/1ml solution for injection ampoules,040702050AAANAN,10.0,5.0,50.0,Hydromorphone 10mg/1ml solution for injection ampoules,1,10.0,50.0,0.0,1.0
+46,Osmach 50micrograms/hour transdermal patches,0407020A0BHABAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+47,Breakyl 200microgram buccal films,0407020A0BSAABT,0.2,180.0,36.0,Fentanyl 200microgram buccal films sugar free,1,0.2,26.0,-10.0,0.7222222222222222
+48,Solpadol 30mg/500mg caplets,0407010F0BGABAH,30.0,0.1,3.0,Co-codamol 30mg/500mg tablets,1,30.0,3.0,0.0,1.0
+49,Morphine 20mg tablets,0407020Q0AACECE,20.0,1.0,20.0,Morphine 20mg tablets,1,20.0,20.0,0.0,1.0
+50,Targinact 5mg/2.5mg modified-release tablets,0407020AFBBACAC,5.0,2.0,10.0,Oxycodone 5mg / Naloxone 2.5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+51,Victanyl 50micrograms/hour transdermal patches,0407020A0BMABAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+52,MST Continus suspension 30mg granules sachets,0407020Q0BBAGCP,30.0,1.0,30.0,Morphine 30mg modified-release granules sachets sugar free,1,30.0,30.0,0.0,1.0
+53,Morphine 100mg modified-release tablets,0407020Q0AAAHAH,100.0,1.0,100.0,Morphine 100mg modified-release tablets,1,100.0,100.0,0.0,1.0
+54,Palexia SR 50mg tablets,0407020AGBBACAC,50.0,0.4,20.0,Tapentadol 50mg modified-release tablets,1,50.0,20.0,0.0,1.0
+55,Zamadol SR 200mg capsules,040702040BDAEAJ,200.0,0.1,20.0,Tramadol 200mg modified-release capsules,1,200.0,20.0,0.0,1.0
+56,OxyNorm 50mg/1ml solution for injection ampoules,0407020ADBBAHAN,50.0,2.0,100.0,Oxycodone 50mg/1ml solution for injection ampoules,1,50.0,150.0,50.0,1.5
+57,Codeine 6.75mg/5ml oral solution,0407020C0AABABA,1.35,0.1,0.135,Codeine 6.75mg/5ml oral solution,5,1.35,0.14,0.0,1.037037037037037
+58,Diamorphine 50mg/5ml oral solution,0407020K0AADGDG,10.0,1.0,10.0,Diamorphine 50mg/5ml oral solution,1,10.0,10.0,0.0,1.0
+59,Matrifen 100micrograms/hour transdermal patches,0407020A0BEAEAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+60,Victanyl 25micrograms/hour transdermal patches,0407020A0BMAAAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+61,Palexia 50mg tablets,0407020AGBBAAAA,50.0,0.4,20.0,Tapentadol 50mg tablets,1,50.0,20.0,0.0,1.0
+62,Effentora 600microgram buccal tablets,0407020A0BKADBF,0.6,130.0,78.0,Fentanyl 600microgram buccal tablets sugar free,1,0.6,78.0,0.0,1.0
+63,Renocontin 10mg modified-release tablets,0407020ADBRABAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+64,Morphine hydrochloride 10mg suppositories,0407020P0AAAQAQ,10.0,1.0,10.0,Morphine hydrochloride 10mg suppositories,1,10.0,10.0,0.0,1.0
+65,Oxylan 10mg modified-release tablets (Actavis),0407020ADBFAGAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+66,Tradorec XL 100mg tablets,040702040BIAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+67,Abstral 300microgram sublingual tablets,0407020A0BJACAY,0.3,130.0,39.0,Fentanyl 300microgram sublingual tablets sugar free,1,0.3,39.0,0.0,1.0
+68,Papaveretum 40mg/1ml solution for injection ampoules,0407020ABAAAKAK,40.0,1.0,40.0,Papaveretum 40mg/1ml solution for injection ampoules,1,40.0,308.0,268.0,7.7
+69,Zydol 100mg/2ml solution for injection ampoules,040702040BBABAB,100.0,0.1,10.0,Tramadol 100mg/2ml solution for injection ampoules,2,50.0,5.0,-5.0,0.5
+70,Tramadol 50mg capsules,040702040AAAAAA,50.0,0.1,5.0,Tramadol 50mg capsules,1,50.0,5.0,0.0,1.0
+71,OxyNorm 5mg capsules,0407020ADBBACAC,5.0,2.0,10.0,Oxycodone 5mg capsules,1,5.0,7.5,-2.5,0.75
+72,Tramadol 50mg modified-release capsules,040702040AAAGAG,50.0,0.1,5.0,Tramadol 50mg modified-release capsules,1,50.0,5.0,0.0,1.0
+73,Tramadol 50mg orodispersible tablets sugar free,040702040AAATAT,50.0,0.1,5.0,Tramadol 50mg orodispersible tablets sugar free,1,50.0,5.0,0.0,1.0
+74,Oxeltra 40mg modified-release tablets,0407020ADBLAEAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+75,Zydol XL 150mg tablets,040702040BBAGAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+76,Bunov 5micrograms/hour transdermal patches,0407020B0BUAAAH,0.84,100.0,84.0,Buprenorphine 5micrograms/hour transdermal patches,1,0.84,84.0,0.0,1.0
+77,Opiodur 75micrograms/hour transdermal patches (RX Farma),0407020A0BRAIAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+78,Zytram SR 150mg tablets,040702040BVAAAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+79,Meptazinol 200mg tablets,0407020L0AAABAB,200.0,0.03,6.0,Meptazinol 200mg tablets,1,200.0,6.0,0.0,1.0
+80,Tapentadol 50mg modified-release tablets,0407020AGAAACAC,50.0,0.4,20.0,Tapentadol 50mg modified-release tablets,1,50.0,20.0,0.0,1.0
+81,Diamorphine 30mg powder for solution for injection vials,0407020K0AAEMEM,30.0,3.0,90.0,Diamorphine 30mg powder for solution for injection vials,1,30.0,90.0,0.0,1.0
+82,Targinact 10mg/5mg modified-release tablets,0407020AFBBAAAA,10.0,2.0,20.0,Oxycodone 10mg / Naloxone 5mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+83,Hydromorphone 2mg modified-release capsules,040702050AAAFAF,2.0,5.0,10.0,Hydromorphone 2mg modified-release capsules,1,2.0,10.0,0.0,1.0
+84,Morphine 30mg modified-release granules sachets sugar free,0407020Q0AACPCP,30.0,1.0,30.0,Morphine 30mg modified-release granules sachets sugar free,1,30.0,30.0,0.0,1.0
+85,Lynlor 20mg capsules,0407020ADBHACAE,20.0,2.0,40.0,Oxycodone 20mg capsules,1,20.0,30.0,-10.0,0.75
+86,Dypracet 20mg/500mg tablets,0407010N0BFAAAH,20.0,0.1,2.0,Co-dydramol 20mg/500mg tablets,1,20.0,2.0,0.0,1.0
+87,Codeine 30mg tablets,0407020C0AAAEAE,30.0,0.1,3.0,Codeine 30mg tablets,1,30.0,3.0,0.0,1.0
+88,BuTrans 15micrograms/hour transdermal patches,0407020B0BEADAK,2.52,100.0,252.0,Buprenorphine 15micrograms/hour transdermal patches,1,2.52,252.0,0.0,1.0
+89,Zydol SR 200mg tablets,040702040BBAEAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+90,Temgesic 200microgram sublingual tablets,0407020B0BBAAAB,0.2,60.0,12.0,Buprenorphine 200microgram sublingual tablets sugar free,1,0.2,12.0,0.0,1.0
+91,Reltebon 60mg modified-release tablets,0407020ADBKAHAQ,60.0,2.0,120.0,Oxycodone 60mg modified-release tablets,1,60.0,90.0,-30.0,0.75
+92,Oxycodone 20mg/2ml solution for injection ampoules,0407020ADAAAMAM,20.0,2.0,40.0,Oxycodone 20mg/2ml solution for injection ampoules,2,10.0,30.0,-10.0,0.75
+93,Fentanyl 400microgram sublingual tablets sugar free,0407020A0AAAZAZ,0.4,130.0,52.0,Fentanyl 400microgram sublingual tablets sugar free,1,0.4,52.0,0.0,1.0
+94,Codeine 60mg/1ml solution for injection ampoules,0407020C0AAAAAA,60.0,0.1,6.0,Codeine 60mg/1ml solution for injection ampoules,1,60.0,6.0,0.0,1.0
+95,Morphine sulfate 10mg/10ml inj pre-filled syringes,0407020Q0AAFJFJ,1.0,2.0,2.0,Morphine sulfate 10mg/10ml solution for injection pre-filled syringes,10,1.0,2.0,0.0,1.0
+96,Methadone 50mg capsules,0407020M0AABLBL,50.0,3.0,150.0,Methadone 50mg capsules,1,50.0,150.0,0.0,1.0
+97,Co-codamol 15mg/500mg tablets,0407010F0AAAKAK,15.0,0.1,1.5,Co-codamol 15mg/500mg tablets,1,15.0,1.5,0.0,1.0
+98,Mezolar Matrix 50micrograms/hour transdermal patches,0407020A0BFACAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+99,Morphine 30mg modified-release capsules,0407020Q0AAEGEG,30.0,1.0,30.0,Morphine 30mg modified-release capsules,1,30.0,30.0,0.0,1.0
+100,Zydol SR 150mg tablets,040702040BBADAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+101,Zamadol Melt 50mg tablets,040702040BDAGAT,50.0,0.1,5.0,Tramadol 50mg orodispersible tablets sugar free,1,50.0,5.0,0.0,1.0
+102,Diamorphine 40mg impregnated cigarettes,0407020K0AADCDC,40.0,1.0,40.0,Diamorphine 40mg impregnated cigarettes,1,40.0,40.0,0.0,1.0
+103,Morphine hydrochloride powder,0407020P0AAADAD,,,0.0,,,,,,
+104,OxyContin 80mg modified-release tablets,0407020ADBCADAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+105,Transtec 52.5micrograms/hour transdermal patches,0407020B0BDABAF,5.04,100.0,504.0,Buprenorphine 52.5micrograms/hour transdermal patches,1,5.04,504.0,0.0,1.0
+106,Oxylan 20mg modified-release tablets (Chanelle Medical),0407020ADBFACAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+107,Morphine 60mg modified-release capsules,0407020Q0AAEHEH,60.0,1.0,60.0,Morphine 60mg modified-release capsules,1,60.0,60.0,0.0,1.0
+108,Bunov 20micrograms/hour transdermal patches,0407020B0BUACAJ,3.36,100.0,336.0,Buprenorphine 20micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+109,Morphine sulfate 10mg suppositories,0407020Q0AACQCQ,10.0,1.0,10.0,Morphine sulfate 10mg suppositories,1,10.0,10.0,0.0,1.0
+110,Carexil 20mg modified-release tablets,0407020ADBDACAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+111,Morphine sulfate 2mg/10ml solution for injection ampoules,0407020Q0AAAAAA,2.0,2.0,4.0,Morphine sulfate 2mg/10ml solution for injection ampoules,10,0.2,0.4,-3.6,0.1
+112,OxyContin 20mg modified-release tablets,0407020ADBCABAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+113,Zapain 30mg/500mg tablets,0407010F0BSAAAH,30.0,0.1,3.0,Co-codamol 30mg/500mg tablets,1,30.0,3.0,0.0,1.0
+114,Fentalis Reservoir 100micrograms/hour transdermal patches,0407020A0BGADAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+115,Morphine 150mg modified-release capsules,0407020Q0AADWDW,150.0,1.0,150.0,Morphine 150mg modified-release capsules,1,150.0,150.0,0.0,1.0
+116,Longtec 20mg modified-release tablets,0407020ADBEACAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+117,Targinact 20mg/10mg modified-release tablets,0407020AFBBABAB,20.0,2.0,40.0,Oxycodone 20mg / Naloxone 10mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+118,Zydol SR 50mg tablets,040702040BBAKAY,50.0,0.1,5.0,Tramadol 50mg modified-release tablets,1,50.0,5.0,0.0,1.0
+119,Filnarine SR 30mg tablets,0407020Q0BMABAL,30.0,1.0,30.0,Morphine 30mg modified-release tablets,1,30.0,30.0,0.0,1.0
+120,Pethidine 100mg/2ml / Promethazine 50mg/2ml inj ampoules,0407020V0AAAIAI,100.0,0.24,24.0,Pethidine 100mg/2ml / Promethazine 50mg/2ml solution for injection ampoules,2,50.0,12.0,-12.0,0.5
+121,Medocodene 30mg/500mg effervescent tablets,0407010F0BRABAF,30.0,0.1,3.0,Co-codamol 30mg/500mg effervescent tablets,1,30.0,3.0,0.0,1.0
+122,Morphine sulfate 300mg/10ml solution for injection ampoules,0407020Q0AAFKFK,300.0,2.0,600.0,Morphine sulfate 300mg/10ml solution for injection ampoules,10,30.0,60.0,-540.0,0.1
+123,Morphine sulfate 20mg suppositories,0407020Q0AACRCR,20.0,1.0,20.0,Morphine sulfate 20mg suppositories,1,20.0,20.0,0.0,1.0
+124,Morphine sulfate 50mg/5ml solution for injection ampoules,0407020Q0AAFWFW,50.0,2.0,100.0,Morphine sulfate 50mg/5ml solution for injection ampoules,5,10.0,20.0,-80.0,0.2
+125,Tilodol SR 100mg tablets,040702040BSAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+126,Tephine 200microgram sublingual tablets,0407020B0BFAAAB,0.2,60.0,12.0,Buprenorphine 200microgram sublingual tablets sugar free,1,0.2,12.0,0.0,1.0
+127,Abtard 10mg modified-release tablets,0407020ADBMABAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+128,Oxycodone 120mg modified-release tablets,0407020ADAAAPAP,120.0,2.0,240.0,Oxycodone 120mg modified-release tablets,1,120.0,180.0,-60.0,0.75
+129,Palexia SR 100mg tablets,0407020AGBBADAD,100.0,0.4,40.0,Tapentadol 100mg modified-release tablets,1,100.0,40.0,0.0,1.0
+130,Palexia SR 200mg tablets,0407020AGBBAFAF,200.0,0.4,80.0,Tapentadol 200mg modified-release tablets,1,200.0,80.0,0.0,1.0
+131,Zeridame SR 100mg tablets,040702040BLAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+132,Opiodur 12micrograms/hour transdermal patches (Pfizer),0407020A0BRAAAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+133,Breakyl 400microgram buccal films,0407020A0BSABBU,0.4,180.0,72.0,Fentanyl 400microgram buccal films sugar free,1,0.4,52.0,-20.0,0.7222222222222222
+134,Palladone 10mg/1ml solution for injection ampoules,040702050BBAJAN,10.0,5.0,50.0,Hydromorphone 10mg/1ml solution for injection ampoules,1,10.0,50.0,0.0,1.0
+135,Diamorphine 100mg powder for solution for injection ampoules,0407020K0AAAFAF,100.0,3.0,300.0,Diamorphine 100mg powder for solution for injection ampoules,1,100.0,300.0,0.0,1.0
+136,Cyclimorph 10 solution for injection 1ml ampoules,040702020BBAAAA,10.0,2.0,20.0,Morphine tartrate 10mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,1,10.0,20.0,0.0,1.0
+137,Tramadol 100mg/2ml solution for injection ampoules,040702040AAABAB,100.0,0.1,10.0,Tramadol 100mg/2ml solution for injection ampoules,2,50.0,5.0,-5.0,0.5
+138,Oxylan 10mg modified-release tablets (Chanelle Medical),0407020ADBFABAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+139,Palexia 75mg tablets,0407020AGBBABAB,75.0,0.4,30.0,Tapentadol 75mg tablets,1,75.0,30.0,0.0,1.0
+140,Morphine sulfate 500micrograms/5ml oral solution,0407020Q0AAFDFD,0.1,1.0,0.1,Morphine sulfate 500micrograms/5ml oral solution,1,0.1,0.1,0.0,1.0
+141,Morphine sulfate 30mg/30ml solution for infusion vials,0407020Q0AAFPFP,30.0,2.0,60.0,Morphine sulfate 30mg/30ml solution for infusion vials,30,1.0,2.0,-58.0,0.03333333333333333
+142,Codeine 30mg/1ml solution for injection ampoules,0407020C0AAAHAH,30.0,0.1,3.0,Codeine 30mg/1ml solution for injection ampoules,1,30.0,3.0,0.0,1.0
+143,Morphine sulfate 5mg/1ml solution for injection ampoules,0407020Q0AAA2A2,5.0,2.0,10.0,Morphine sulfate 5mg/1ml solution for injection ampoules,1,5.0,10.0,0.0,1.0
+144,Shortec 5mg capsules,0407020ADBJAAAC,5.0,2.0,10.0,Oxycodone 5mg capsules,1,5.0,7.5,-2.5,0.75
+145,Oxycodone 10mg / Naloxone 5mg modified-release tablets,0407020AFAAAAAA,10.0,2.0,20.0,Oxycodone 10mg / Naloxone 5mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+146,Physeptone 50mg/1ml solution for injection ampoules,0407020M0BBAIAC,50.0,3.0,150.0,Methadone 50mg/1ml solution for injection ampoules,1,50.0,150.0,0.0,1.0
+147,Zytram SR 75mg tablets,040702040BVABAP,75.0,0.1,7.5,Tramadol 75mg modified-release tablets,1,75.0,7.5,0.0,1.0
+148,Opiodur 100micrograms/hour transdermal patches (Pfizer),0407020A0BRADAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+149,Diamorphine 5mg/5ml oral solution,0407020K0AADKDK,1.0,1.0,1.0,Diamorphine 5mg/5ml oral solution,1,1.0,1.0,0.0,1.0
+150,Diamorphine 130mg/5ml oral solution,0407020K0AAFNFN,26.0,1.0,26.0,Diamorphine 130mg/5ml oral solution,1,26.0,26.0,0.0,1.0
+151,Diamorphine 30mg impregnated cigarettes,0407020K0AABFBF,30.0,1.0,30.0,Diamorphine 30mg impregnated cigarettes,1,30.0,30.0,0.0,1.0
+152,Tapentadol 100mg modified-release tablets,0407020AGAAADAD,100.0,0.4,40.0,Tapentadol 100mg modified-release tablets,1,100.0,40.0,0.0,1.0
+153,Oxycodone 40mg / Naloxone 20mg modified-release tablets,0407020AFAAADAD,40.0,2.0,80.0,Oxycodone 40mg / Naloxone 20mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+154,Dromadol SR 200mg tablets,040702040BEADAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+155,Hydromorphone 24mg modified-release capsules,040702050AAABAB,24.0,5.0,120.0,Hydromorphone 24mg modified-release capsules,1,24.0,120.0,0.0,1.0
+156,Morphine 200mg modified-release capsules,0407020Q0AAEIEI,200.0,1.0,200.0,Morphine 200mg modified-release capsules,1,200.0,200.0,0.0,1.0
+157,Methadone 50mg/2ml solution for injection ampoules,0407020M0AAA6A6,50.0,3.0,150.0,Methadone 50mg/2ml solution for injection ampoules,2,25.0,75.0,-75.0,0.5
+158,Filnarine SR 200mg tablets,0407020Q0BMAEAG,200.0,1.0,200.0,Morphine 200mg modified-release tablets,1,200.0,200.0,0.0,1.0
+159,Morphine 30mg modified-release tablets,0407020Q0AAALAL,30.0,1.0,30.0,Morphine 30mg modified-release tablets,1,30.0,30.0,0.0,1.0
+160,Buprenorphine 52.5micrograms/hour transdermal patches,0407020B0AAAFAF,5.04,100.0,504.0,Buprenorphine 52.5micrograms/hour transdermal patches,1,5.04,504.0,0.0,1.0
+161,Oxeltra 30mg modified-release tablets,0407020ADBLACAR,30.0,2.0,60.0,Oxycodone 30mg modified-release tablets,1,30.0,45.0,-15.0,0.75
+162,Oxypro 60mg modified-release tablets,0407020ADBSAGAQ,60.0,2.0,120.0,Oxycodone 60mg modified-release tablets,1,60.0,90.0,-30.0,0.75
+163,Renocontin 40mg modified-release tablets,0407020ADBRAFAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+164,Cynril 800microgram loz with integral oromucosal applicator,0407020A0BWADAL,0.8,100.0,80.0,Fentanyl 800microgram lozenges,1,0.8,104.0,24.0,1.3
+165,Morphine sulfate 10mg/5ml oral solution,0407020Q0AACNCN,2.0,1.0,2.0,Morphine sulfate 10mg/5ml oral solution,5,2.0,2.0,0.0,1.0
+166,Fencino 100micrograms/hour transdermal patches,0407020A0BQAEAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+167,Methadone 20mg/2ml solution for injection ampoules,0407020M0AAA3A3,20.0,3.0,60.0,Methadone 20mg/2ml solution for injection ampoules,2,10.0,30.0,-30.0,0.5
+168,Pentazocine 50mg capsules,0407020T0AAAAAA,50.0,0.37,18.5,Pentazocine 50mg capsules,1,50.0,18.5,0.0,1.0
+169,Effentora 200microgram buccal tablets,0407020A0BKABBD,0.2,130.0,26.0,Fentanyl 200microgram buccal tablets sugar free,1,0.2,26.0,0.0,1.0
+170,Morphine sulfate 20mg/2ml solution for injection ampoules,0407020Q0AADIDI,20.0,2.0,40.0,Morphine sulfate 20mg/2ml solution for injection ampoules,2,10.0,20.0,-20.0,0.5
+171,Butec 5micrograms/hour transdermal patches,0407020B0BHAAAH,0.84,100.0,84.0,Buprenorphine 5micrograms/hour transdermal patches,1,0.84,84.0,0.0,1.0
+172,BuTrans 10micrograms/hour transdermal patches,0407020B0BEABAI,1.68,100.0,168.0,Buprenorphine 10micrograms/hour transdermal patches,1,1.68,168.0,0.0,1.0
+173,Longtec 80mg modified-release tablets,0407020ADBEAEAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+174,Reletrans 15micrograms/hour transdermal patches,0407020B0BKACAK,2.52,100.0,252.0,Buprenorphine 15micrograms/hour transdermal patches,1,2.52,252.0,0.0,1.0
+175,Yemex 25micrograms/hour transdermal patches,0407020A0BVABAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+176,Co-dydramol 10mg/500mg/5ml oral suspension,0407010N0AAAGAG,2.0,0.1,0.2,Co-dydramol 10mg/500mg/5ml oral suspension,1,2.0,0.2,0.0,1.0
+177,Fentanyl 50micrograms/dose nasal spray,0407020A0AABHBH,0.5,160.0,80.0,Fentanyl 50micrograms/dose nasal spray,1,0.05,8.0,-72.0,0.1
+178,Dextromoramide 5mg tablets,0407020D0AAADAD,5.0,4.0,20.0,Dextromoramide 5mg tablets,1,5.0,20.0,0.0,1.0
+179,Morphine hydrochloride 15mg/5ml oral solution,0407020P0AAAXAX,3.0,1.0,3.0,Morphine hydrochloride 15mg/5ml oral solution,1,3.0,3.0,0.0,1.0
+180,Morphine sulfate 60mg suppositories,0407020Q0AABNBN,60.0,1.0,60.0,Morphine sulfate 60mg suppositories,1,60.0,60.0,0.0,1.0
+181,Morphine 0.1% gel,0407020Q0AAFSFS,,,0.0,,,,,,
+182,Palladone 2.6mg capsules,040702050BBABAD,2.6,5.0,13.0,Hydromorphone 2.6mg capsules,1,2.6,13.0,0.0,1.0
+183,Victanyl 100micrograms/hour transdermal patches,0407020A0BMADAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+184,Meptid 100mg/1ml solution for injection ampoules,0407020L0BBABAA,100.0,0.03,3.0,Meptazinol 100mg/1ml solution for injection ampoules,1,100.0,3.0,0.0,1.0
+185,Oxylan 5mg modified-release tablets (Actavis),0407020ADBFAFAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+186,Oxycodone 20mg / Naloxone 10mg modified-release tablets,0407020AFAAABAB,20.0,2.0,40.0,Oxycodone 20mg / Naloxone 10mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+187,Codipar 15mg/500mg tablets,0407010F0BVAAAK,15.0,0.1,1.5,Co-codamol 15mg/500mg tablets,1,15.0,1.5,0.0,1.0
+188,Buplast 70micrograms/hour transdermal patches,0407020B0BNACAG,6.72,100.0,672.0,Buprenorphine 70micrograms/hour transdermal patches,1,6.72,672.0,0.0,1.0
+189,Opiodur 12micrograms/hour transdermal patches (RX Farma),0407020A0BRAFAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+190,Buprenorphine 300micrograms/1ml inj ampoules,0407020B0AAAAAA,0.3,100.0,30.0,Buprenorphine 300micrograms/1ml solution for injection ampoules,1,0.3,30.0,0.0,1.0
+191,Morphine 0.2% in Intrasite gel,0407020Q0AAFYFY,,,0.0,,,,,,
+192,Co-codamol 8mg/500mg tablets,0407010F0AAAAAA,8.0,0.1,0.8,Co-codamol 8mg/500mg tablets,1,8.0,0.8,0.0,1.0
+193,Dihydrocodeine 40mg tablets,0407020G0AAAIAI,40.0,0.1,4.0,Dihydrocodeine 40mg tablets,1,40.0,4.0,0.0,1.0
+194,Zydol SR 100mg tablets,040702040BBACAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+195,OxyContin 40mg modified-release tablets,0407020ADBCACAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+196,Oxycodone 80mg modified-release tablets,0407020ADAAAIAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+197,Pethidine 10mg/5ml oral solution,0407020V0AABABA,2.0,0.1,0.2,Pethidine 10mg/5ml oral solution,1,2.0,0.2,0.0,1.0
+198,Sevodyne 5micrograms/hour transdermal patches,0407020B0BMAAAH,0.84,100.0,84.0,Buprenorphine 5micrograms/hour transdermal patches,1,0.84,84.0,0.0,1.0
+199,Temgesic 400microgram sublingual tablets,0407020B0BBADAD,0.4,60.0,24.0,Buprenorphine 400microgram sublingual tablets sugar free,1,0.4,24.0,0.0,1.0
+200,Fentanyl 37.5microgram/hour transdermal patches,0407020A0AABWBW,0.3,100.0,30.0,Fentanyl 37.5microgram/hour transdermal patches,1,2.7,270.0,240.0,9.0
+201,Fentanyl 200microgram lozenges,0407020A0AAAIAI,0.2,100.0,20.0,Fentanyl 200microgram lozenges,1,0.2,26.0,6.0,1.3
+202,Fencino 25micrograms/hour transdermal patches,0407020A0BQABAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+203,Tapentadol 200mg modified-release tablets,0407020AGAAAFAF,200.0,0.4,80.0,Tapentadol 200mg modified-release tablets,1,200.0,80.0,0.0,1.0
+204,Zamadol 24hr 150mg modified-release tablets,040702040BDAHAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+205,Opiodur 50micrograms/hour transdermal patches (Pfizer),0407020A0BRAEAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+206,Dolocodon PR 40mg tablets,0407020ADBIABAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+207,Oxycodone 40mg/5ml / Naloxone 20mg/5ml oral suspension,0407020AFAAAEAE,8.0,2.0,16.0,Oxycodone 40mg/5ml / Naloxone 20mg/5ml oral suspension,1,8.0,12.0,-4.0,0.75
+208,Myloxifin 40mg/20mg modified-release tablets,0407020AFBCACAD,40.0,2.0,80.0,Oxycodone 40mg / Naloxone 20mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+209,Morphine sulfate powder,0407020Q0AAANAN,,,0.0,,,,,,
+210,Morphine 10mg tablets,0407020Q0AACDCD,10.0,1.0,10.0,Morphine 10mg tablets,1,10.0,10.0,0.0,1.0
+211,MST Continus 30mg tablets,0407020Q0BBABAL,30.0,1.0,30.0,Morphine 30mg modified-release tablets,1,30.0,30.0,0.0,1.0
+212,OxyContin 30mg modified-release tablets,0407020ADBCAHAR,30.0,2.0,60.0,Oxycodone 30mg modified-release tablets,1,30.0,45.0,-15.0,0.75
+213,Hydromorphone 8mg modified-release capsules,040702050AAACAC,8.0,5.0,40.0,Hydromorphone 8mg modified-release capsules,1,8.0,40.0,0.0,1.0
+214,Zeridame SR 150mg tablets,040702040BLABAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+215,Oxylan 5mg modified-release tablets (Chanelle Medical),0407020ADBFAAAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+216,Morcap SR 100mg capsules,0407020Q0BJACEB,100.0,1.0,100.0,Morphine 100mg modified-release capsules,1,100.0,100.0,0.0,1.0
+217,Morphine sulfate 100mg suppositories,0407020Q0AABPBP,100.0,1.0,100.0,Morphine sulfate 100mg suppositories,1,100.0,100.0,0.0,1.0
+218,Morphine sulfate 100mg/5ml soln unit dose vials sugar free,0407020Q0AACUCU,100.0,1.0,100.0,Morphine sulfate 100mg/5ml oral solution unit dose vials sugar free,5,20.0,20.0,-80.0,0.2
+219,Physeptone 5mg tablets,0407020M0BBAAAE,5.0,3.0,15.0,Methadone 5mg tablets,1,5.0,15.0,0.0,1.0
+220,Sevodyne 10micrograms/hour transdermal patches,0407020B0BMABAI,1.68,100.0,168.0,Buprenorphine 10micrograms/hour transdermal patches,1,1.68,168.0,0.0,1.0
+221,Tramadol 75mg modified-release tablets,040702040AAAPAP,75.0,0.1,7.5,Tramadol 75mg modified-release tablets,1,75.0,7.5,0.0,1.0
+222,Bupramyl 10micrograms/hour transdermal patches,0407020B0BQABAI,1.68,100.0,168.0,Buprenorphine 10micrograms/hour transdermal patches,1,1.68,168.0,0.0,1.0
+223,Oxypro 20mg modified-release tablets,0407020ADBSADAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+224,OxyContin 15mg modified-release tablets,0407020ADBCAIAS,15.0,2.0,30.0,Oxycodone 15mg modified-release tablets,1,15.0,22.5,-7.5,0.75
+225,Morphine sulfate 1mg/1ml solution for injection ampoules,0407020Q0AAA4A4,1.0,2.0,2.0,Morphine sulfate 1mg/1ml solution for injection ampoules,1,1.0,2.0,0.0,1.0
+226,Morphine sulfate 60mg/2ml solution for injection ampoules,0407020Q0AAAMAM,60.0,2.0,120.0,Morphine sulfate 60mg/2ml solution for injection ampoules,2,30.0,60.0,-60.0,0.5
+227,Oxycodone 5mg/5ml oral solution,0407020ADAAAJAJ,1.0,2.0,2.0,Oxycodone 5mg/5ml oral solution,1,1.0,1.5,-0.5,0.75
+228,Tilodol SR 150mg tablets,040702040BSABAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+229,Tramadol 50mg soluble tablets sugar free,040702040AAAFAF,50.0,0.1,5.0,Tramadol 50mg soluble tablets sugar free,1,50.0,5.0,0.0,1.0
+230,Fentalis Reservoir 75micrograms/hour transdermal patches,0407020A0BGACAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+231,Morphine sulfate 20mg/1ml solution for injection ampoules,0407020Q0AAAFAF,20.0,2.0,40.0,Morphine sulfate 20mg/1ml solution for injection ampoules,1,20.0,40.0,0.0,1.0
+232,Zydol 50mg capsules,040702040BBAAAA,50.0,0.1,5.0,Tramadol 50mg capsules,1,50.0,5.0,0.0,1.0
+233,Mabron 150mg modified-release tablets (Morningside),040702040BHABAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+234,Methadone 40mg capsules,0407020M0AABTBT,40.0,3.0,120.0,Methadone 40mg capsules,1,40.0,120.0,0.0,1.0
+235,Physeptone 50mg/2ml solution for injection ampoules,0407020M0BBAHA6,50.0,3.0,150.0,Methadone 50mg/2ml solution for injection ampoules,2,25.0,75.0,-75.0,0.5
+236,Morphine sulfate 5mg/5ml oral solution,0407020Q0AADNDN,1.0,1.0,1.0,Morphine sulfate 5mg/5ml oral solution,1,1.0,1.0,0.0,1.0
+237,Synastone 10mg/1ml solution for injection ampoules,0407020M0BCAAAV,10.0,3.0,30.0,Methadone 10mg/1ml solution for injection ampoules,1,10.0,30.0,0.0,1.0
+238,Hapoctasin 35micrograms/hour transdermal patches,0407020B0BGAAAE,3.36,100.0,336.0,Buprenorphine 35micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+239,Buprenorphine 20micrograms/hour transdermal patches,0407020B0AAAJAJ,3.36,100.0,336.0,Buprenorphine 20micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+240,Matrifen 25micrograms/hour transdermal patches,0407020A0BEABAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+241,Hapoctasin 70micrograms/hour transdermal patches,0407020B0BGACAG,6.72,100.0,672.0,Buprenorphine 70micrograms/hour transdermal patches,1,6.72,672.0,0.0,1.0
+242,Bupeaze 70micrograms/hour transdermal patches,0407020B0BIACAG,6.72,100.0,672.0,Buprenorphine 70micrograms/hour transdermal patches,1,6.72,672.0,0.0,1.0
+243,OxyNorm 10mg/1ml solution for injection ampoules,0407020ADBBAFAL,10.0,2.0,20.0,Oxycodone 10mg/1ml solution for injection ampoules,1,10.0,30.0,10.0,1.5
+244,Synastone 50mg/1ml solution for injection ampoules,0407020M0BCABAC,50.0,3.0,150.0,Methadone 50mg/1ml solution for injection ampoules,1,50.0,150.0,0.0,1.0
+245,Tramadol 37.5mg / Paracetamol 325mg tablets,040702040AAAUAU,37.5,0.1,3.75,Tramadol 37.5mg / Paracetamol 325mg tablets,1,37.5,3.75,0.0,1.0
+246,Morphine 200mg modified-release tablets,0407020Q0AAAGAG,200.0,1.0,200.0,Morphine 200mg modified-release tablets,1,200.0,200.0,0.0,1.0
+247,OxyNorm 10mg/ml concentrate oral solution,0407020ADBBABAB,10.0,2.0,20.0,Oxycodone 10mg/ml oral solution sugar free,1,10.0,15.0,-5.0,0.75
+248,Morphgesic SR 60mg tablets,0407020Q0BNACAI,60.0,1.0,60.0,Morphine 60mg modified-release tablets,1,60.0,60.0,0.0,1.0
+249,Durogesic 50micrograms transdermal patches,0407020A0BBABAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+250,Diamorphine 320mg/5ml oral solution,0407020K0AAFEFE,64.0,1.0,64.0,Diamorphine 320mg/5ml oral solution,1,64.0,64.0,0.0,1.0
+251,Candox 20mg modified-release tablets,0407020ADBGABAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+252,Zomorph 10mg modified-release capsules,0407020Q0BKAAEF,10.0,1.0,10.0,Morphine 10mg modified-release capsules,1,10.0,10.0,0.0,1.0
+253,Tramulief SR 100mg tablets,040702040BKAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+254,Oxycodone 30mg modified-release tablets,0407020ADAAARAR,30.0,2.0,60.0,Oxycodone 30mg modified-release tablets,1,30.0,45.0,-15.0,0.75
+255,Morphine 5mg modified-release tablets,0407020Q0AACGCG,5.0,1.0,5.0,Morphine 5mg modified-release tablets,1,5.0,5.0,0.0,1.0
+256,Zamadol 24hr 300mg modified-release tablets,040702040BDAJAM,300.0,0.1,30.0,Tramadol 300mg modified-release tablets,1,300.0,30.0,0.0,1.0
+257,Fentanyl 800microgram buccal tablets sugar free,0407020A0AABGBG,0.8,130.0,104.0,Fentanyl 800microgram buccal tablets sugar free,1,0.8,104.0,0.0,1.0
+258,Shortec liquid 1mg/ml oral solution,0407020ADBJAGAA,1.0,2.0,2.0,Oxycodone 5mg/5ml oral solution sugar free,5,1.0,1.5,-0.5,0.75
+259,Oxyargin 20mg/10mg modified-release tablets,0407020AFBDACAB,20.0,2.0,40.0,Oxycodone 20mg / Naloxone 10mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+260,Zomestine 80mg modified-release tablets,0407020ADBNAAAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+261,Carexil 40mg modified-release tablets,0407020ADBDADAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+262,Paracodol 8mg/500mg capsules,0407010F0BBAAAB,8.0,0.1,0.8,Co-codamol 8mg/500mg capsules,1,8.0,0.8,0.0,1.0
+263,Oxyargin 5mg/2.5mg modified-release tablets,0407020AFBDAAAC,5.0,2.0,10.0,Oxycodone 5mg / Naloxone 2.5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+264,Dihydrocodeine 10mg/5ml oral solution,0407020G0AAAAAA,2.0,0.1,0.2,Dihydrocodeine 10mg/5ml oral solution,5,2.0,0.2,0.0,1.0
+265,Filnarine SR 60mg tablets,0407020Q0BMACAI,60.0,1.0,60.0,Morphine 60mg modified-release tablets,1,60.0,60.0,0.0,1.0
+266,Physeptone 20mg/2ml solution for injection ampoules,0407020M0BBACA3,20.0,3.0,60.0,Methadone 20mg/2ml solution for injection ampoules,2,10.0,30.0,-30.0,0.5
+267,Pethidine 50mg/5ml oral solution,0407020V0AAATAT,10.0,1.0,10.0,Pethidine 50mg/5ml oral solution,1,10.0,1.0,-9.0,0.1
+268,Codeine 10mg/5ml oral liquid,0407020C0AAAYAY,2.0,0.1,0.2,Codeine 10mg/5ml oral solution,1,2.0,0.2,0.0,1.0
+269,Codeine 10mg/5ml oral liquid,0407020C0AAAYAY,2.0,0.1,0.2,Codeine 10mg/5ml oral suspension,1,2.0,0.2,0.0,1.0
+270,Oxeltra 15mg modified-release tablets,0407020ADBLAGAS,15.0,2.0,30.0,Oxycodone 15mg modified-release tablets,1,15.0,22.5,-7.5,0.75
+271,Maxitram SR 50mg capsules,040702040BPAAAG,50.0,0.1,5.0,Tramadol 50mg modified-release capsules,1,50.0,5.0,0.0,1.0
+272,Effentora 400microgram buccal tablets,0407020A0BKACBE,0.4,130.0,52.0,Fentanyl 400microgram buccal tablets sugar free,1,0.4,52.0,0.0,1.0
+273,Morphine sulfate 5mg/5ml solution for injection ampoules,0407020Q0AAFZFZ,5.0,2.0,10.0,Morphine sulfate 5mg/5ml solution for injection ampoules,5,1.0,2.0,-8.0,0.2
+274,Tylex 30mg/500mg effervescent tablets,0407010F0BEABAF,30.0,0.1,3.0,Co-codamol 30mg/500mg effervescent tablets,1,30.0,3.0,0.0,1.0
+275,Morphine 200mg modified-release granules sachets sugar free,0407020Q0AADEDE,200.0,1.0,200.0,Morphine 200mg modified-release granules sachets sugar free,1,200.0,200.0,0.0,1.0
+276,Zomestine 40mg modified-release tablets,0407020ADBNABAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+277,Morphine 60mg modified-release tablets,0407020Q0AAAIAI,60.0,1.0,60.0,Morphine 60mg modified-release tablets,1,60.0,60.0,0.0,1.0
+278,MST Continus 5mg tablets,0407020Q0BBAKCG,5.0,1.0,5.0,Morphine 5mg modified-release tablets,1,5.0,5.0,0.0,1.0
+279,OxyContin 5mg modified-release tablets,0407020ADBCAEAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+280,MXL 60mg capsules,0407020Q0BIABEH,60.0,1.0,60.0,Morphine 60mg modified-release capsules,1,60.0,60.0,0.0,1.0
+281,Mabron 200mg modified-release tablets (Morningside),040702040BHACAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+282,Pethidine 50mg/5ml solution for injection ampoules,0407020V0AAAPAP,50.0,0.24,12.0,Pethidine 50mg/5ml solution for injection ampoules,5,10.0,2.4,-9.6,0.19999999999999998
+283,Papaveretum 15.4mg/1ml solution for injection ampoules,0407020ABAAABAB,15.4,1.0,15.4,Papaveretum 15.4mg/1ml solution for injection ampoules,1,15.4,118.58,103.2,7.699999999999999
+284,Sevredol 20mg tablets,0407020Q0BHADCE,20.0,1.0,20.0,Morphine 20mg tablets,1,20.0,20.0,0.0,1.0
+285,BuTrans 20micrograms/hour transdermal patches,0407020B0BEACAJ,3.36,100.0,336.0,Buprenorphine 20micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+286,Abstral 200microgram sublingual tablets,0407020A0BJABAX,0.2,130.0,26.0,Fentanyl 200microgram sublingual tablets sugar free,1,0.2,26.0,0.0,1.0
+287,Zytram SR 100mg tablets,040702040BVACAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+288,Invodol SR 150mg tablets,040702040BTABAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+289,Osmanil 100micrograms/hour transdermal patches,0407020A0BLADAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+290,Diamorphine 25mg/5ml oral solution,0407020K0AADJDJ,5.0,1.0,5.0,Diamorphine 25mg/5ml oral solution,1,5.0,5.0,0.0,1.0
+291,Leveraxo 60mg modified-release tablets,0407020ADBPAFAQ,60.0,2.0,120.0,Oxycodone 60mg modified-release tablets,1,60.0,90.0,-30.0,0.75
+292,Kapake 30mg/500mg tablets,0407010F0BHAAAH,30.0,0.1,3.0,Co-codamol 30mg/500mg tablets,1,30.0,3.0,0.0,1.0
+293,Morphine sulfate 10mg/1ml solution for injection ampoules,0407020Q0AAABAB,10.0,2.0,20.0,Morphine sulfate 10mg/1ml solution for injection ampoules,1,10.0,20.0,0.0,1.0
+294,Tramulief SR 200mg tablets,040702040BKACAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+295,Dromadol SR 100mg tablets,040702040BEABAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+296,Codeine phosphate powder,0407020C0AAAGAG,,,0.0,,,,,,
+297,MST Continus 100mg tablets,0407020Q0BBADAH,100.0,1.0,100.0,Morphine 100mg modified-release tablets,1,100.0,100.0,0.0,1.0
+298,Codeine 25mg/5ml oral solution,0407020C0AAABAB,5.0,0.1,0.5,Codeine 25mg/5ml oral solution,5,5.0,0.5,0.0,1.0
+299,Fentanyl 100microgram sublingual tablets sugar free,0407020A0AAAWAW,0.1,130.0,13.0,Fentanyl 100microgram sublingual tablets sugar free,1,0.1,13.0,0.0,1.0
+300,Morphine sulfate 10mg/1ml inj pre-filled syringes,0407020Q0AAFCFC,10.0,2.0,20.0,Morphine sulfate 10mg/1ml solution for injection pre-filled syringes,1,10.0,20.0,0.0,1.0
+301,Morphine sulfate 50mg/50ml solution for infusion vials,0407020Q0AAENEN,50.0,2.0,100.0,Morphine sulfate 50mg/50ml solution for infusion vials,50,1.0,2.0,-98.0,0.02
+302,Osmach 100micrograms/hour transdermal patches,0407020A0BHADAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+303,Tramadol 50mg modified-release tablets,040702040AAAYAY,50.0,0.1,5.0,Tramadol 50mg modified-release tablets,1,50.0,5.0,0.0,1.0
+304,Matrifen 12micrograms/hour transdermal patches,0407020A0BEAAAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+305,Morphine 20mg modified-release granules sachets sugar free,0407020Q0AACVCV,20.0,1.0,20.0,Morphine 20mg modified-release granules sachets sugar free,1,20.0,20.0,0.0,1.0
+306,Dolocodon PR 20mg tablets,0407020ADBIAAAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+307,Co-codamol 8mg/500mg capsules,0407010F0AAABAB,8.0,0.1,0.8,Co-codamol 8mg/500mg capsules,1,8.0,0.8,0.0,1.0
+308,Oxeltra 60mg modified-release tablets,0407020ADBLADAQ,60.0,2.0,120.0,Oxycodone 60mg modified-release tablets,1,60.0,90.0,-30.0,0.75
+309,Tramquel SR 50mg capsules,040702040BJAAAG,50.0,0.1,5.0,Tramadol 50mg modified-release capsules,1,50.0,5.0,0.0,1.0
+310,Dihydrocodeine 50mg/1ml solution for injection ampoules,0407020G0AAABAB,50.0,0.1,5.0,Dihydrocodeine 50mg/1ml solution for injection ampoules,1,50.0,5.0,0.0,1.0
+311,Mylafent 12micrograms/hour transdermal patches,0407020A0BUAAAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+312,Kapake 30mg/500mg effervescent tablets,0407010F0BHAEAF,30.0,0.1,3.0,Co-codamol 30mg/500mg effervescent tablets,1,30.0,3.0,0.0,1.0
+313,Sevredol 10mg tablets,0407020Q0BHACCD,10.0,1.0,10.0,Morphine 10mg tablets,1,10.0,10.0,0.0,1.0
+314,Tramadol 100mg/ml oral drops,040702040AABBBB,100.0,0.1,10.0,Tramadol 100mg/ml oral drops,1,100.0,10.0,0.0,1.0
+315,Tradorec XL 300mg tablets,040702040BIACAM,300.0,0.1,30.0,Tramadol 300mg modified-release tablets,1,300.0,30.0,0.0,1.0
+316,Diamorphine 100mg powder for solution for injection vials,0407020K0AAEHEH,100.0,3.0,300.0,Diamorphine 100mg powder for solution for injection vials,1,100.0,300.0,0.0,1.0
+317,Abstral 400microgram sublingual tablets,0407020A0BJADAZ,0.4,130.0,52.0,Fentanyl 400microgram sublingual tablets sugar free,1,0.4,52.0,0.0,1.0
+318,Lynlor 10mg capsules,0407020ADBHABAD,10.0,2.0,20.0,Oxycodone 10mg capsules,1,10.0,15.0,-5.0,0.75
+319,Co-codamol 30mg/500mg capsules,0407010F0AAADAD,30.0,0.1,3.0,Co-codamol 30mg/500mg capsules,1,30.0,3.0,0.0,1.0
+320,Fencino 50micrograms/hour transdermal patches,0407020A0BQACAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+321,Oxycodone 10mg modified-release tablets,0407020ADAAAFAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+322,Oramorph 20mg/ml concentrated oral solution,0407020Q0BCABA6,20.0,1.0,20.0,Morphine sulfate 20mg/ml oral solution sugar free,1,20.0,20.0,0.0,1.0
+323,Oxypro 15mg modified-release tablets,0407020ADBSACAS,15.0,2.0,30.0,Oxycodone 15mg modified-release tablets,1,15.0,22.5,-7.5,0.75
+324,Panitaz 20micrograms/hour transdermal patches,0407020B0BLACAJ,3.36,100.0,336.0,Buprenorphine 20micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+325,Pethidine 50mg capsules,0407020V0AABFBF,50.0,0.1,5.0,Pethidine 50mg capsules,1,50.0,5.0,0.0,1.0
+326,Paracodol 8mg/500mg effervescent tablets,0407010F0BBABAC,8.0,0.1,0.8,Co-codamol 8mg/500mg effervescent tablets,1,8.0,0.8,0.0,1.0
+327,BuTrans 5micrograms/hour transdermal patches,0407020B0BEAAAH,0.84,100.0,84.0,Buprenorphine 5micrograms/hour transdermal patches,1,0.84,84.0,0.0,1.0
+328,Victanyl 75micrograms/hour transdermal patches,0407020A0BMACAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+329,Oxylan 40mg modified-release tablets (Chanelle Medical),0407020ADBFADAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+330,Fentanyl 800microgram sublingual tablets sugar free,0407020A0AABBBB,0.8,130.0,104.0,Fentanyl 800microgram sublingual tablets sugar free,1,0.8,104.0,0.0,1.0
+331,Morphine 10mg modified-release capsules,0407020Q0AAEFEF,10.0,1.0,10.0,Morphine 10mg modified-release capsules,1,10.0,10.0,0.0,1.0
+332,Fentanyl 400microgram lozenges,0407020A0AAAJAJ,0.4,100.0,40.0,Fentanyl 400microgram lozenges,1,0.4,52.0,12.0,1.3
+333,Abstral 100microgram sublingual tablets,0407020A0BJAAAW,0.1,130.0,13.0,Fentanyl 100microgram sublingual tablets sugar free,1,0.1,13.0,0.0,1.0
+334,Larapam SR 100mg tablets,040702040BGAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+335,Morphine hydrochloride 10mg/10ml inj pre-filled syringes,0407020P0AAAZAZ,10.0,2.0,20.0,Morphine hydrochloride 10mg/10ml solution for injection pre-filled syringes,10,1.0,2.0,-18.0,0.1
+336,Oldaram 100mg modified-release tablets,040702040BQAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+337,Morphine sulfate 100mg/50ml solution for infusion vials,0407020Q0AAELEL,100.0,2.0,200.0,Morphine sulfate 100mg/50ml solution for infusion vials,50,2.0,4.0,-196.0,0.02
+338,Diamorphine 20mg/5ml oral solution,0407020K0AADFDF,4.0,1.0,4.0,Diamorphine 20mg/5ml oral solution,1,4.0,4.0,0.0,1.0
+339,Tapentadol 75mg tablets,0407020AGAAABAB,75.0,0.4,30.0,Tapentadol 75mg tablets,1,75.0,30.0,0.0,1.0
+340,Fentanyl 100micrograms/dose nasal spray,0407020A0AABJBJ,1.0,160.0,160.0,Fentanyl 100micrograms/dose nasal spray,1,0.1,16.0,-144.0,0.1
+341,Cynril 200microgram loz with integral oromucosal applicator,0407020A0BWAAAI,0.2,100.0,20.0,Fentanyl 200microgram lozenges,1,0.2,26.0,6.0,1.3
+342,Durogesic 75micrograms transdermal patches,0407020A0BBACAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+343,MST Continus 60mg tablets,0407020Q0BBACAI,60.0,1.0,60.0,Morphine 60mg modified-release tablets,1,60.0,60.0,0.0,1.0
+344,Oxycodone 40mg modified-release tablets,0407020ADAAAHAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+345,Morphine sulfate 10mg/10ml inj Minijet pre-filled syringes,0407020Q0BEABFJ,1.0,2.0,2.0,Morphine sulfate 10mg/10ml solution for injection pre-filled syringes,10,1.0,2.0,0.0,1.0
+346,Tramadol 300mg modified-release tablets,040702040AAAMAM,300.0,0.1,30.0,Tramadol 300mg modified-release tablets,1,300.0,30.0,0.0,1.0
+347,Tramulief SR 150mg tablets,040702040BKABAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+348,Zydol XL 200mg tablets,040702040BBAHAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+349,Dypracet 30mg/500mg tablets,0407010N0BFABAI,30.0,0.1,3.0,Co-dydramol 30mg/500mg tablets,1,30.0,3.0,0.0,1.0
+350,Diamorphine 100mg impregnated cigarettes,0407020K0AABCBC,100.0,1.0,100.0,Diamorphine 100mg impregnated cigarettes,1,100.0,100.0,0.0,1.0
+351,Morphine 2% gel,0407020Q0AAFQFQ,,,0.0,,,,,,
+352,Zomorph 60mg modified-release capsules,0407020Q0BKACEH,60.0,1.0,60.0,Morphine 60mg modified-release capsules,1,60.0,60.0,0.0,1.0
+353,Tramquel SR 150mg capsules,040702040BJACAI,150.0,0.1,15.0,Tramadol 150mg modified-release capsules,1,150.0,15.0,0.0,1.0
+354,Bupramyl 20micrograms/hour transdermal patches,0407020B0BQACAJ,3.36,100.0,336.0,Buprenorphine 20micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+355,Marol 100mg modified-release tablets (Morningside),040702040BNAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+356,Methadone 50mg/1ml solution for injection ampoules,0407020M0AAACAC,50.0,3.0,150.0,Methadone 50mg/1ml solution for injection ampoules,1,50.0,150.0,0.0,1.0
+357,Fentanyl 1.6mg lozenges,0407020A0AAAPAP,1.6,100.0,160.0,Fentanyl 1.6mg lozenges,1,1.6,208.0,48.0,1.3
+358,Codeine 15mg suppositories,0407020C0AAAQAQ,15.0,0.1,1.5,Codeine 15mg suppositories,1,15.0,1.5,0.0,1.0
+359,Dropizol 10mg/ml oral drops,0407020W0BBAAAA,,,0.0,,,,,,
+360,OxyNorm 10mg capsules,0407020ADBBADAD,10.0,2.0,20.0,Oxycodone 10mg capsules,1,10.0,15.0,-5.0,0.75
+361,Synastone 50mg/2ml solution for injection ampoules,0407020M0BCACA6,50.0,3.0,150.0,Methadone 50mg/2ml solution for injection ampoules,2,25.0,75.0,-75.0,0.5
+362,Morphine 0.1% in Intrasite gel,0407020Q0AAFXFX,,,0.0,,,,,,
+363,Candox 5mg modified-release tablets,0407020ADBGACAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+364,Tramadol 200mg modified-release capsules,040702040AAAJAJ,200.0,0.1,20.0,Tramadol 200mg modified-release capsules,1,200.0,20.0,0.0,1.0
+365,Diamorphine 10mg powder for solution for injection ampoules,0407020K0AAABAB,10.0,3.0,30.0,Diamorphine 10mg powder for solution for injection ampoules,1,10.0,30.0,0.0,1.0
+366,Zydol XL 300mg tablets,040702040BBAIAM,300.0,0.1,30.0,Tramadol 300mg modified-release tablets,1,300.0,30.0,0.0,1.0
+367,Reltebon 30mg modified-release tablets,0407020ADBKAGAR,30.0,2.0,60.0,Oxycodone 30mg modified-release tablets,1,30.0,45.0,-15.0,0.75
+368,Reltebon 5mg modified-release tablets,0407020ADBKAAAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+369,Ixyldone 60mg modified-release tablets,0407020ADBTAGAQ,60.0,2.0,120.0,Oxycodone 60mg modified-release tablets,1,60.0,90.0,-30.0,0.75
+370,Diamorphine 500mg powder for solution for injection vials,0407020K0AAEIEI,500.0,3.0,1500.0,Diamorphine 500mg powder for solution for injection vials,1,500.0,1500.0,0.0,1.0
+371,Mylafent 75micrograms/hour transdermal patches,0407020A0BUADAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+372,Busiete 10micrograms/hour transdermal patches,0407020B0BRABAI,1.68,100.0,168.0,Buprenorphine 10micrograms/hour transdermal patches,1,1.68,168.0,0.0,1.0
+373,Fentanyl 133microgram sublingual tablets sugar free,0407020A0AABXBX,0.133,130.0,17.29,Fentanyl 133microgram sublingual tablets sugar free,1,0.133,17.29,0.0,1.0
+374,Instanyl 50micrograms/dose nasal spray,0407020A0BNAIBH,0.5,160.0,80.0,Fentanyl 50micrograms/dose nasal spray,1,0.05,8.0,-72.0,0.1
+375,Tramadol 100mg modified-release tablets,040702040AAACAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+376,Fencino 75micrograms/hour transdermal patches,0407020A0BQADAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+377,Tramadol 400mg modified-release tablets,040702040AAANAN,400.0,0.1,40.0,Tramadol 400mg modified-release tablets,1,400.0,40.0,0.0,1.0
+378,OxyContin 60mg modified-release tablets,0407020ADBCAGAQ,60.0,2.0,120.0,Oxycodone 60mg modified-release tablets,1,60.0,90.0,-30.0,0.75
+379,Morphine 60mg modified-release granules sachets sugar free,0407020Q0AADCDC,60.0,1.0,60.0,Morphine 60mg modified-release granules sachets sugar free,1,60.0,60.0,0.0,1.0
+380,Durogesic 25micrograms transdermal patches,0407020A0BBAAAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+381,Methadone 20mg/1ml solution for injection ampoules,0407020M0AAA8A8,20.0,3.0,60.0,Methadone 20mg/1ml solution for injection ampoules,1,20.0,60.0,0.0,1.0
+382,Morphine sulfate 5mg suppositories,0407020Q0AABJBJ,5.0,1.0,5.0,Morphine sulfate 5mg suppositories,1,5.0,5.0,0.0,1.0
+383,Longtec 30mg modified-release tablets,0407020ADBEAHAR,30.0,2.0,60.0,Oxycodone 30mg modified-release tablets,1,30.0,45.0,-15.0,0.75
+384,Zamadol SR 50mg capsules,040702040BDABAG,50.0,0.1,5.0,Tramadol 50mg modified-release capsules,1,50.0,5.0,0.0,1.0
+385,Durogesic DTrans 25micrograms/hour transdermal patches,0407020A0BBAIAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+386,Longtec 120mg modified-release tablets,0407020ADBEAFAP,120.0,2.0,240.0,Oxycodone 120mg modified-release tablets,1,120.0,180.0,-60.0,0.75
+387,Tradorec XL 200mg tablets,040702040BIABAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+388,Fentanyl 200microgram sublingual tablets sugar free,0407020A0AAAXAX,0.2,130.0,26.0,Fentanyl 200microgram sublingual tablets sugar free,1,0.2,26.0,0.0,1.0
+389,MXL 150mg capsules,0407020Q0BIAEDW,150.0,1.0,150.0,Morphine 150mg modified-release capsules,1,150.0,150.0,0.0,1.0
+390,Tilofyl 50micrograms/hour transdermal patches,0407020A0BDABAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+391,Papaveretum 15.4mg/Hyoscine hydrobrom 400microg/1ml inj amp,0407020ABAAAIAI,15.4,1.0,15.4,Papaveretum 15.4mg/1ml / Hyoscine hydrobromide 400micrograms/1ml solution for injection ampoules,1,15.4,118.58,103.2,7.699999999999999
+392,Zydol 50mg soluble tablets,040702040BBAFAF,50.0,0.1,5.0,Tramadol 50mg soluble tablets sugar free,1,50.0,5.0,0.0,1.0
+393,Tilodol SR 200mg tablets,040702040BSACAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+394,Diamorphine 5mg powder for solution for injection vials,0407020K0AAEFEF,5.0,3.0,15.0,Diamorphine 5mg powder for solution for injection vials,1,5.0,15.0,0.0,1.0
+395,Palladone SR 8mg capsules,040702050BBAEAC,8.0,5.0,40.0,Hydromorphone 8mg modified-release capsules,1,8.0,40.0,0.0,1.0
+396,Diamorphine 100mg/5ml oral solution,0407020K0AADXDX,20.0,1.0,20.0,Diamorphine 100mg/5ml oral solution,1,20.0,20.0,0.0,1.0
+397,Oxylan 80mg modified-release tablets (Chanelle Medical),0407020ADBFAEAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+398,Dihydrocodeine 30mg tablets,0407020G0AAACAC,30.0,0.1,3.0,Dihydrocodeine 30mg tablets,1,30.0,3.0,0.0,1.0
+399,Abtard 40mg modified-release tablets,0407020ADBMAEAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+400,Tramacet 37.5mg/325mg tablets,040702040BFAAAU,37.5,0.1,3.75,Tramadol 37.5mg / Paracetamol 325mg tablets,1,37.5,3.75,0.0,1.0
+401,Buprenorphine 15micrograms/hour transdermal patches,0407020B0AAAKAK,2.52,100.0,252.0,Buprenorphine 15micrograms/hour transdermal patches,1,2.52,252.0,0.0,1.0
+402,Prenotrix 70micrograms/hour transdermal patches,0407020B0BJACAG,6.72,100.0,672.0,Buprenorphine 70micrograms/hour transdermal patches,1,6.72,672.0,0.0,1.0
+403,Invodol SR 100mg tablets,040702040BTAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+404,Physeptone 10mg/1ml solution for injection ampoules,0407020M0BBABAV,10.0,3.0,30.0,Methadone 10mg/1ml solution for injection ampoules,1,10.0,30.0,0.0,1.0
+405,Palladone SR 24mg capsules,040702050BBAGAB,24.0,5.0,120.0,Hydromorphone 24mg modified-release capsules,1,24.0,120.0,0.0,1.0
+406,Prenotrix 52.5micrograms/hour transdermal patches,0407020B0BJABAF,5.04,100.0,504.0,Buprenorphine 52.5micrograms/hour transdermal patches,1,5.04,504.0,0.0,1.0
+407,Oxycodone 20mg modified-release tablets,0407020ADAAAGAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+408,Tramadol 37.5mg / Paracetamol 325mg efferv tab sugar free,040702040AABABA,37.5,0.1,3.75,Tramadol 37.5mg / Paracetamol 325mg effervescent tablets sugar free,1,37.5,3.75,0.0,1.0
+409,Palexia SR 250mg tablets,0407020AGBBAGAG,250.0,0.4,100.0,Tapentadol 250mg modified-release tablets,1,250.0,100.0,0.0,1.0
+410,Distalgesic 32.5mg/325mg tablets,0407010Q0BDAAAA,32.5,0.1,3.25,Co-proxamol 32.5mg/325mg tablets,1,32.5,3.25,0.0,1.0
+411,Dihydrocodeine 60mg/5ml oral liquid,0407020G0AAARAR,12.0,0.1,1.2,Dihydrocodeine 60mg/5ml oral solution,1,12.0,1.2,0.0,1.0
+412,Dihydrocodeine 60mg/5ml oral liquid,0407020G0AAARAR,12.0,0.1,1.2,Dihydrocodeine 60mg/5ml oral suspension,1,12.0,1.2,0.0,1.0
+413,MST Continus 10mg tablets,0407020Q0BBAAAK,10.0,1.0,10.0,Morphine 10mg modified-release tablets,1,10.0,10.0,0.0,1.0
+414,Co-dydramol 20mg/500mg tablets,0407010N0AAAHAH,20.0,0.1,2.0,Co-dydramol 20mg/500mg tablets,1,20.0,2.0,0.0,1.0
+415,Buplast 52.5micrograms/hour transdermal patches,0407020B0BNABAF,5.04,100.0,504.0,Buprenorphine 52.5micrograms/hour transdermal patches,1,5.04,504.0,0.0,1.0
+416,Opiodur 25micrograms/hour transdermal patches (Pfizer),0407020A0BRABAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+417,Prenotrix 35micrograms/hour transdermal patches,0407020B0BJAAAE,3.36,100.0,336.0,Buprenorphine 35micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+418,Dipipanone 10mg / Cyclizine 30mg tablets,0407020H0AAABAB,10.0,0.5,5.0,Dipipanone 10mg / Cyclizine 30mg tablets,1,10.0,5.0,0.0,1.0
+419,Abstral 800microgram sublingual tablets,0407020A0BJAFBB,0.8,130.0,104.0,Fentanyl 800microgram sublingual tablets sugar free,1,0.8,104.0,0.0,1.0
+420,Oldaram 200mg modified-release tablets,040702040BQACAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+421,Pentazocine 30mg/1ml solution for injection ampoules,0407020U0AAAAAA,30.0,0.37,11.1,Pentazocine 30mg/1ml solution for injection ampoules,1,30.0,11.1,0.0,1.0
+422,Mezolar Matrix 12micrograms/hour transdermal patches,0407020A0BFAAAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+423,OxyNorm liquid 5mg/5ml oral solution,0407020ADBBAAAA,1.0,2.0,2.0,Oxycodone 5mg/5ml oral solution sugar free,5,1.0,1.5,-0.5,0.75
+424,Co-codaprin 8mg/400mg tablets,0407010M0AAAAAA,8.0,0.1,0.8,Co-codaprin 8mg/400mg tablets,1,8.0,0.8,0.0,1.0
+425,Morphine hydrochloride 1.5mg/5ml oral solution,0407020P0AAAWAW,0.3,1.0,0.3,Morphine hydrochloride 1.5mg/5ml oral solution,1,0.3,0.3,0.0,1.0
+426,MXL 30mg capsules,0407020Q0BIAAEG,30.0,1.0,30.0,Morphine 30mg modified-release capsules,1,30.0,30.0,0.0,1.0
+427,Fentanyl 600microgram sublingual tablets sugar free,0407020A0AABABA,0.6,130.0,78.0,Fentanyl 600microgram sublingual tablets sugar free,1,0.6,78.0,0.0,1.0
+428,Methadone 35mg/3.5ml solution for injection ampoules,0407020M0AAATAT,35.0,3.0,105.0,Methadone 35mg/3.5ml solution for injection ampoules,3.5,10.0,30.0,-75.0,0.2857142857142857
+429,Methadone 60mg impregnated cigarettes,0407020M0AAAXAX,60.0,3.0,180.0,Methadone 60mg impregnated cigarettes,1,60.0,180.0,0.0,1.0
+430,Morphine (Opium tincture) 10mg/ml oral drops sugar free,0407020W0AAAAAA,,,0.0,,,,,,
+431,Dihydrocodeine 90mg modified-release tablets,0407020G0AAAEAE,90.0,0.1,9.0,Dihydrocodeine 90mg modified-release tablets,1,90.0,9.0,0.0,1.0
+432,DHC Continus 60mg tablets,0407020G0BBAAAD,60.0,0.1,6.0,Dihydrocodeine 60mg modified-release tablets,1,60.0,6.0,0.0,1.0
+433,Filnarine SR 10mg tablets,0407020Q0BMAAAK,10.0,1.0,10.0,Morphine 10mg modified-release tablets,1,10.0,10.0,0.0,1.0
+434,Codeine 10mg suppositories,0407020C0AAALAL,10.0,0.1,1.0,Codeine 10mg suppositories,1,10.0,1.0,0.0,1.0
+435,Leveraxo 5mg modified-release tablets,0407020ADBPAAAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+436,Oxycodone 10mg/ml oral solution sugar free,0407020ADAAABAB,10.0,2.0,20.0,Oxycodone 10mg/ml oral solution sugar free,1,10.0,15.0,-5.0,0.75
+437,Oxycodone 15mg modified-release tablets,0407020ADAAASAS,15.0,2.0,30.0,Oxycodone 15mg modified-release tablets,1,15.0,22.5,-7.5,0.75
+438,Morphine hydrochloride 10mg/5ml oral solution,0407020P0AAASAS,2.0,1.0,2.0,Morphine hydrochloride 10mg/5ml oral solution,1,2.0,2.0,0.0,1.0
+439,Diamorphine 120mg impregnated cigarettes,0407020K0AAEVEV,120.0,1.0,120.0,Diamorphine 120mg impregnated cigarettes,1,120.0,120.0,0.0,1.0
+440,Oxylan 80mg modified-release tablets (Actavis),0407020ADBFAJAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+441,Oxycodone 5mg modified-release tablets,0407020ADAAAKAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+442,Kapake 30mg/500mg capsules,0407010F0BHADAD,30.0,0.1,3.0,Co-codamol 30mg/500mg capsules,1,30.0,3.0,0.0,1.0
+443,Abtard 30mg modified-release tablets,0407020ADBMAFAR,30.0,2.0,60.0,Oxycodone 30mg modified-release tablets,1,30.0,45.0,-15.0,0.75
+444,MST Continus suspension 60mg granules sachets,0407020Q0BBAHDC,60.0,1.0,60.0,Morphine 60mg modified-release granules sachets sugar free,1,60.0,60.0,0.0,1.0
+445,Carlosafine 52.5micrograms/hour transdermal patches,0407020B0BTABAF,5.04,100.0,504.0,Buprenorphine 52.5micrograms/hour transdermal patches,1,5.04,504.0,0.0,1.0
+446,Tramadol 50mg/5ml oral suspension,040702040AAAZAZ,10.0,0.1,1.0,Tramadol 50mg/5ml oral suspension,1,10.0,1.0,0.0,1.0
+447,Morphine hydrochloride 50mg/50ml inf pre-filled syringes,0407020P0AABABA,50.0,2.0,100.0,Morphine hydrochloride 50mg/50ml solution for infusion pre-filled syringes,50,1.0,2.0,-98.0,0.02
+448,Diamorphine 15mg powder for solution for injection ampoules,0407020K0AAACAC,15.0,3.0,45.0,Diamorphine 15mg powder for solution for injection ampoules,1,15.0,45.0,0.0,1.0
+449,Morphine hydrochloride 30mg suppositories,0407020P0AAACAC,30.0,1.0,30.0,Morphine hydrochloride 30mg suppositories,1,30.0,30.0,0.0,1.0
+450,Buprenorphine 200microgram sublingual tablets sugar free,0407020B0AAABAB,0.2,60.0,12.0,Buprenorphine 200microgram sublingual tablets sugar free,1,0.2,12.0,0.0,1.0
+451,Longtec 60mg modified-release tablets,0407020ADBEAIAQ,60.0,2.0,120.0,Oxycodone 60mg modified-release tablets,1,60.0,90.0,-30.0,0.75
+452,Morphine sulfate 10mg/10ml solution for injection ampoules,0407020Q0AAGAGA,10.0,2.0,20.0,Morphine sulfate 10mg/10ml solution for injection ampoules,10,1.0,2.0,-18.0,0.1
+453,Relevtec 35micrograms/hour transdermal patches,0407020B0BPAAAE,3.36,100.0,336.0,Buprenorphine 35micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+454,Tramquel SR 100mg capsules,040702040BJABAH,100.0,0.1,10.0,Tramadol 100mg modified-release capsules,1,100.0,10.0,0.0,1.0
+455,Fentanyl 800microgram buccal films sugar free,0407020A0AABVBV,0.8,180.0,144.0,Fentanyl 800microgram buccal films sugar free,1,0.8,104.0,-40.0,0.7222222222222222
+456,Morphine 20mg modified-release capsules,0407020Q0AADZDZ,20.0,1.0,20.0,Morphine 20mg modified-release capsules,1,20.0,20.0,0.0,1.0
+457,Fentanyl 267microgram sublingual tablets sugar free,0407020A0AABZBZ,0.267,130.0,34.71,Fentanyl 267microgram sublingual tablets sugar free,1,0.267,34.71,0.0,1.0
+458,Buprenorphine 400microgram sublingual tablets sugar free,0407020B0AAADAD,0.4,60.0,24.0,Buprenorphine 400microgram sublingual tablets sugar free,1,0.4,24.0,0.0,1.0
+459,OxyNorm 20mg capsules,0407020ADBBAEAE,20.0,2.0,40.0,Oxycodone 20mg capsules,1,20.0,30.0,-10.0,0.75
+460,Effentora 800microgram buccal tablets,0407020A0BKAEBG,0.8,130.0,104.0,Fentanyl 800microgram buccal tablets sugar free,1,0.8,104.0,0.0,1.0
+461,Diamorphine 20mg impregnated cigarettes,0407020K0AAEUEU,20.0,1.0,20.0,Diamorphine 20mg impregnated cigarettes,1,20.0,20.0,0.0,1.0
+462,Morphine sulfate 2mg/5ml oral solution,0407020Q0AAFFFF,0.4,1.0,0.4,Morphine sulfate 2mg/5ml oral solution,1,0.4,0.4,0.0,1.0
+463,Reltebon 10mg modified-release tablets,0407020ADBKABAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+464,DF 118 Forte 40mg tablets,0407020G0BCADAI,40.0,0.1,4.0,Dihydrocodeine 40mg tablets,1,40.0,4.0,0.0,1.0
+465,Relevtec 52.5micrograms/hour transdermal patches,0407020B0BPABAF,5.04,100.0,504.0,Buprenorphine 52.5micrograms/hour transdermal patches,1,5.04,504.0,0.0,1.0
+466,Codeine 60mg tablets,0407020C0AAAFAF,60.0,0.1,6.0,Codeine 60mg tablets,1,60.0,6.0,0.0,1.0
+467,DHC Continus 90mg tablets,0407020G0BBABAE,90.0,0.1,9.0,Dihydrocodeine 90mg modified-release tablets,1,90.0,9.0,0.0,1.0
+468,Morphine 120mg modified-release capsules,0407020Q0AADVDV,120.0,1.0,120.0,Morphine 120mg modified-release capsules,1,120.0,120.0,0.0,1.0
+469,Filnarine SR 100mg tablets,0407020Q0BMADAH,100.0,1.0,100.0,Morphine 100mg modified-release tablets,1,100.0,100.0,0.0,1.0
+470,Pentazocine 50mg suppositories,0407020U0AAABAB,50.0,0.37,18.5,Pentazocine 50mg suppositories,1,50.0,18.5,0.0,1.0
+471,Marol 100mg modified-release tablets (Teva),040702040BNAFAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+472,Dihydrocodeine 60mg modified-release tablets,0407020G0AAADAD,60.0,0.1,6.0,Dihydrocodeine 60mg modified-release tablets,1,60.0,6.0,0.0,1.0
+473,Oxycodone 10mg capsules,0407020ADAAADAD,10.0,2.0,20.0,Oxycodone 10mg capsules,1,10.0,15.0,-5.0,0.75
+474,Abtard 20mg modified-release tablets,0407020ADBMADAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+475,Relevtec 70micrograms/hour transdermal patches,0407020B0BPACAG,6.72,100.0,672.0,Buprenorphine 70micrograms/hour transdermal patches,1,6.72,672.0,0.0,1.0
+476,Zytram SR 200mg tablets,040702040BVADAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+477,Tramacet 37.5mg/325mg effervescent tablets,040702040BFABBA,37.5,0.1,3.75,Tramadol 37.5mg / Paracetamol 325mg effervescent tablets sugar free,1,37.5,3.75,0.0,1.0
+478,Fencino 12micrograms/hour transdermal patches,0407020A0BQAAAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+479,Mezolar Matrix 100micrograms/hour transdermal patches,0407020A0BFAEAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+480,Fentanyl 300microgram sublingual tablets sugar free,0407020A0AAAYAY,0.3,130.0,39.0,Fentanyl 300microgram sublingual tablets sugar free,1,0.3,39.0,0.0,1.0
+481,Morphine hydrochloride 100mg/5ml oral solution,0407020P0AAAPAP,20.0,1.0,20.0,Morphine hydrochloride 100mg/5ml oral solution,1,20.0,20.0,0.0,1.0
+482,Rhotard Morphine SR 10mg tablets,0407020Q0BPAAAK,10.0,1.0,10.0,Morphine 10mg modified-release tablets,1,10.0,10.0,0.0,1.0
+483,Panitaz 5micrograms/hour transdermal patches,0407020B0BLAAAH,0.84,100.0,84.0,Buprenorphine 5micrograms/hour transdermal patches,1,0.84,84.0,0.0,1.0
+484,Shortec 10mg/ml concentrate oral solution,0407020ADBJAHAB,10.0,2.0,20.0,Oxycodone 10mg/ml oral solution sugar free,1,10.0,15.0,-5.0,0.75
+485,Oxyargin 10mg/5mg modified-release tablets,0407020AFBDABAA,10.0,2.0,20.0,Oxycodone 10mg / Naloxone 5mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+486,Kapake 15mg/500mg tablets,0407010F0BHAFAK,15.0,0.1,1.5,Co-codamol 15mg/500mg tablets,1,15.0,1.5,0.0,1.0
+487,Osmanil 50micrograms/hour transdermal patches,0407020A0BLABAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+488,Dihydrocodeine 120mg modified-release tablets,0407020G0AAAFAF,120.0,0.1,12.0,Dihydrocodeine 120mg modified-release tablets,1,120.0,12.0,0.0,1.0
+489,Morphgesic SR 30mg tablets,0407020Q0BNABAL,30.0,1.0,30.0,Morphine 30mg modified-release tablets,1,30.0,30.0,0.0,1.0
+490,Palexia SR 150mg tablets,0407020AGBBAEAE,150.0,0.4,60.0,Tapentadol 150mg modified-release tablets,1,150.0,60.0,0.0,1.0
+491,Osmanil 75micrograms/hour transdermal patches,0407020A0BLACAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+492,Zamadol 100mg/2ml solution for injection ampoules,040702040BDAFAB,100.0,0.1,10.0,Tramadol 100mg/2ml solution for injection ampoules,2,50.0,5.0,-5.0,0.5
+493,Morphine hydrochloride 5mg/5ml oral solution,0407020P0AAARAR,1.0,1.0,1.0,Morphine hydrochloride 5mg/5ml oral solution,1,1.0,1.0,0.0,1.0
+494,Pethidine 10mg/1ml solution for injection ampoules,0407020V0AAAZAZ,10.0,0.24,2.4,Pethidine 10mg/1ml solution for injection ampoules,1,10.0,2.4,0.0,1.0
+495,Leveraxo 10mg modified-release tablets,0407020ADBPABAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+496,Turgeon 35micrograms/hour transdermal patches,0407020B0BSAAAE,3.36,100.0,336.0,Buprenorphine 35micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+497,Ixyldone 40mg modified-release tablets,0407020ADBTAFAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+498,Dihydrocodeine 10mg/5ml oral suspension,0407020G0AAAPAP,2.0,0.1,0.2,Dihydrocodeine 10mg/5ml oral suspension,1,2.0,0.2,0.0,1.0
+499,Opiodur 75micrograms/hour transdermal patches (Pfizer),0407020A0BRACAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+500,Myloxifin 10mg/5mg modified-release tablets,0407020AFBCAAAA,10.0,2.0,20.0,Oxycodone 10mg / Naloxone 5mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+501,Morphine hydrochloride 5mg/5ml inj ampoules,0407020P0AABCBC,5.0,2.0,10.0,Morphine hydrochloride 5mg/5ml solution for injection ampoules,5,1.0,2.0,-8.0,0.2
+502,Morphine sulfate 1mg/5ml oral solution,0407020Q0AAFHFH,1.0,1.0,1.0,Morphine sulfate 1mg/5ml oral solution,1,0.2,0.2,-0.8,0.2
+503,Actiq 200microgram loz with integral oromucosal applicator,0407020A0BCAAAI,0.2,100.0,20.0,Fentanyl 200microgram lozenges,1,0.2,26.0,6.0,1.3
+504,Mabron 100mg modified-release tablets (Morningside),040702040BHAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+505,Morphine hydrochloride 25mg/5ml oral solution,0407020P0AAATAT,5.0,1.0,5.0,Morphine hydrochloride 25mg/5ml oral solution,1,5.0,5.0,0.0,1.0
+506,Reletrans 20micrograms/hour transdermal patches,0407020B0BKADAJ,3.36,100.0,336.0,Buprenorphine 20micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+507,Remedeine Forte tablets,0407010N0BGABAI,30.0,0.1,3.0,Co-dydramol 30mg/500mg tablets,1,30.0,3.0,0.0,1.0
+508,Oxeltra 20mg modified-release tablets,0407020ADBLAHAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+509,Turgeon 52.5micrograms/hour transdermal patches,0407020B0BSABAF,5.04,100.0,504.0,Buprenorphine 52.5micrograms/hour transdermal patches,1,5.04,504.0,0.0,1.0
+510,Opiodur 25micrograms/hour transdermal patches (Zentiva),0407020A0BRALAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+511,MST Continus 15mg tablets,0407020Q0BBALCF,15.0,1.0,15.0,Morphine 15mg modified-release tablets,1,15.0,15.0,0.0,1.0
+512,Fentanyl 1.2mg lozenges,0407020A0AAANAN,1.2,100.0,120.0,Fentanyl 1.2mg lozenges,1,1.2,156.0,36.0,1.3
+513,Tilofyl 75micrograms/hour transdermal patches,0407020A0BDACAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+514,Diamorphine 250mg/5ml oral solution,0407020K0AAFFFF,50.0,1.0,50.0,Diamorphine 250mg/5ml oral solution,1,50.0,50.0,0.0,1.0
+515,Diamorphine 5mg powder for solution for injection ampoules,0407020K0AAAAAA,5.0,3.0,15.0,Diamorphine 5mg powder for solution for injection ampoules,1,5.0,15.0,0.0,1.0
+516,Marol 150mg modified-release tablets (Teva),040702040BNAEAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+517,Morphine sulfate 30mg/1ml solution for injection ampoules,0407020Q0AAADAD,30.0,2.0,60.0,Morphine sulfate 30mg/1ml solution for injection ampoules,1,30.0,60.0,0.0,1.0
+518,Lynlor 5mg capsules,0407020ADBHAAAC,5.0,2.0,10.0,Oxycodone 5mg capsules,1,5.0,7.5,-2.5,0.75
+519,Reltebon 15mg modified-release tablets,0407020ADBKAFAS,15.0,2.0,30.0,Oxycodone 15mg modified-release tablets,1,15.0,22.5,-7.5,0.75
+520,Busiete 20micrograms/hour transdermal patches,0407020B0BRACAJ,3.36,100.0,336.0,Buprenorphine 20micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+521,Opiodur 50micrograms/hour transdermal patches (Zentiva),0407020A0BRAMAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+522,Sevodyne 15micrograms/hour transdermal patches,0407020B0BMADAK,2.52,100.0,252.0,Buprenorphine 15micrograms/hour transdermal patches,1,2.52,252.0,0.0,1.0
+523,Temgesic 300micrograms/1ml solution for injection ampoules,0407020B0BBABAA,0.3,100.0,30.0,Buprenorphine 300micrograms/1ml solution for injection ampoules,1,0.3,30.0,0.0,1.0
+524,Zomorph 30mg modified-release capsules,0407020Q0BKABEG,30.0,1.0,30.0,Morphine 30mg modified-release capsules,1,30.0,30.0,0.0,1.0
+525,Fentanyl 75micrograms/hour transdermal patches,0407020A0AAAGAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+526,Tapentadol 50mg tablets,0407020AGAAAAAA,50.0,0.4,20.0,Tapentadol 50mg tablets,1,50.0,20.0,0.0,1.0
+527,Zamadol 50mg capsules,040702040BDAAAA,50.0,0.1,5.0,Tramadol 50mg capsules,1,50.0,5.0,0.0,1.0
+528,Co-dydramol 10mg/500mg/5ml oral solution,0407010N0AAACAC,2.0,0.1,0.2,Co-dydramol 10mg/500mg/5ml oral solution,1,2.0,0.2,0.0,1.0
+529,Morphine 100mg modified-release capsules,0407020Q0AAEBEB,100.0,1.0,100.0,Morphine 100mg modified-release capsules,1,100.0,100.0,0.0,1.0
+530,Fentanyl 600microgram buccal tablets sugar free,0407020A0AABFBF,0.6,130.0,78.0,Fentanyl 600microgram buccal tablets sugar free,1,0.6,78.0,0.0,1.0
+531,Tephine 400microgram sublingual tablets,0407020B0BFABAD,0.4,60.0,24.0,Buprenorphine 400microgram sublingual tablets sugar free,1,0.4,24.0,0.0,1.0
+532,Pethidine 50mg tablets,0407020V0AAACAC,50.0,0.1,5.0,Pethidine 50mg tablets,1,50.0,5.0,0.0,1.0
+533,Morphine 90mg modified-release capsules,0407020Q0AADUDU,90.0,1.0,90.0,Morphine 90mg modified-release capsules,1,90.0,90.0,0.0,1.0
+534,Victanyl 12micrograms/hour transdermal patches,0407020A0BMAEAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+535,Carlosafine 70micrograms/hour transdermal patches,0407020B0BTACAG,6.72,100.0,672.0,Buprenorphine 70micrograms/hour transdermal patches,1,6.72,672.0,0.0,1.0
+536,Brimisol PR 100mg tablets,040702040BWAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+537,Diamorphine 100mg capsules,0407020K0AACZCZ,100.0,1.0,100.0,Diamorphine 100mg capsules,1,100.0,100.0,0.0,1.0
+538,Actiq 800microgram loz with integral oromucosal applicator,0407020A0BCADAL,0.8,100.0,80.0,Fentanyl 800microgram lozenges,1,0.8,104.0,24.0,1.3
+539,Longtec 10mg modified-release tablets,0407020ADBEABAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+540,Medocodene 30mg/500mg capsules,0407010F0BRAAAD,30.0,0.1,3.0,Co-codamol 30mg/500mg capsules,1,30.0,3.0,0.0,1.0
+541,Co-codamol 30mg/500mg effervescent tablets,0407010F0AAAFAF,30.0,0.1,3.0,Co-codamol 30mg/500mg effervescent tablets,1,30.0,3.0,0.0,1.0
+542,Fentanyl 100micrograms/hour transdermal patches,0407020A0AAAHAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+543,Targinact 40mg/20mg modified-release tablets,0407020AFBBADAD,40.0,2.0,80.0,Oxycodone 40mg / Naloxone 20mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+544,Remedeine tablets,0407010N0BGAAAH,20.0,0.1,2.0,Co-dydramol 20mg/500mg tablets,1,20.0,2.0,0.0,1.0
+545,Oxeltra 5mg modified-release tablets,0407020ADBLAAAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+546,Fentalis Reservoir 50micrograms/hour transdermal patches,0407020A0BGABAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+547,Diamorphine 500mg powder for solution for injection ampoules,0407020K0AAAGAG,500.0,3.0,1500.0,Diamorphine 500mg powder for solution for injection ampoules,1,500.0,1500.0,0.0,1.0
+548,Palladone SR 16mg capsules,040702050BBAFAA,16.0,5.0,80.0,Hydromorphone 16mg modified-release capsules,1,16.0,80.0,0.0,1.0
+549,Recivit 400microgram sublingual tablets,0407020A0BTABAZ,0.4,130.0,52.0,Fentanyl 400microgram sublingual tablets sugar free,1,0.4,52.0,0.0,1.0
+550,Durogesic DTrans 75micrograms/hour transdermal patches,0407020A0BBAKAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+551,Oramorph 100mg/5ml oral solution unit dose vials,0407020Q0BCAJCU,100.0,1.0,100.0,Morphine sulfate 100mg/5ml oral solution unit dose vials sugar free,5,20.0,20.0,-80.0,0.2
+552,Morphine sulfate 1g/5ml oral solution,0407020Q0AAERER,200.0,1.0,200.0,Morphine sulfate 1g/5ml oral solution,1,200.0,200.0,0.0,1.0
+553,Co-codamol 8mg/500mg effervescent tablets,0407010F0AAACAC,8.0,0.1,0.8,Co-codamol 8mg/500mg effervescent tablets,1,8.0,0.8,0.0,1.0
+554,Marol 200mg modified-release tablets (Teva),040702040BNADAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+555,Morphine 15mg modified-release tablets,0407020Q0AACFCF,15.0,1.0,15.0,Morphine 15mg modified-release tablets,1,15.0,15.0,0.0,1.0
+556,Maxitram SR 150mg capsules,040702040BPACAI,150.0,0.1,15.0,Tramadol 150mg modified-release capsules,1,150.0,15.0,0.0,1.0
+557,Tramadol 150mg modified-release tablets,040702040AAADAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+558,Hydromorphone 1.3mg capsules,040702050AAAEAE,1.3,5.0,6.5,Hydromorphone 1.3mg capsules,1,1.3,6.5,0.0,1.0
+559,Busiete 5micrograms/hour transdermal patches,0407020B0BRAAAH,0.84,100.0,84.0,Buprenorphine 5micrograms/hour transdermal patches,1,0.84,84.0,0.0,1.0
+560,PecFent 400micrograms/dose nasal spray,0407020A0BPABBP,3.2,160.0,512.0,Fentanyl 400micrograms/dose nasal spray,1,0.4,64.0,-448.0,0.125
+561,Onexila XL 40mg tablets,0407020ADBQACAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+562,Fentanyl 200micrograms/dose nasal spray,0407020A0AABLBL,2.0,160.0,320.0,Fentanyl 200micrograms/dose nasal spray,1,0.2,32.0,-288.0,0.1
+563,Recivit 267microgram sublingual tablets,0407020A0BTADBZ,0.267,130.0,34.71,Fentanyl 267microgram sublingual tablets sugar free,1,0.267,34.71,0.0,1.0
+564,Oldaram 150mg modified-release tablets,040702040BQABAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+565,Oxylan 20mg modified-release tablets (Actavis),0407020ADBFAHAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+566,Methadone 50mg/5ml solution for injection ampoules,0407020M0AAANAN,50.0,3.0,150.0,Methadone 50mg/5ml solution for injection ampoules,5,10.0,30.0,-120.0,0.2
+567,Mabron 150mg modified-release tablets (Teva),040702040BHAEAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+568,Eroset 500mg/10mg tablets,0407010N0BIAAAA,10.0,0.1,1.0,Co-dydramol 10mg/500mg tablets,1,10.0,1.0,0.0,1.0
+569,Oxycodone 10mg/1ml solution for injection ampoules,0407020ADAAALAL,10.0,2.0,20.0,Oxycodone 10mg/1ml solution for injection ampoules,1,10.0,30.0,10.0,1.5
+570,Morphgesic SR 100mg tablets,0407020Q0BNADAH,100.0,1.0,100.0,Morphine 100mg modified-release tablets,1,100.0,100.0,0.0,1.0
+571,Yemex 100micrograms/hour transdermal patches,0407020A0BVAEAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+572,Cynril 600microgram loz with integral oromucosal applicator,0407020A0BWACAK,0.6,100.0,60.0,Fentanyl 600microgram lozenges,1,0.6,78.0,18.0,1.3
+573,Durogesic 100micrograms transdermal patches,0407020A0BBADAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+574,Carexil 80mg modified-release tablets,0407020ADBDAEAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+575,Leveraxo 80mg modified-release tablets,0407020ADBPAGAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+576,Matrifen 75micrograms/hour transdermal patches,0407020A0BEADAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+577,Tramadol 150mg modified-release capsules,040702040AAAIAI,150.0,0.1,15.0,Tramadol 150mg modified-release capsules,1,150.0,15.0,0.0,1.0
+578,MXL 120mg capsules,0407020Q0BIADDV,120.0,1.0,120.0,Morphine 120mg modified-release capsules,1,120.0,120.0,0.0,1.0
+579,Morphgesic SR 10mg tablets,0407020Q0BNAAAK,10.0,1.0,10.0,Morphine 10mg modified-release tablets,1,10.0,10.0,0.0,1.0
+580,Migraleve Yellow tablets,0407010F0BXAAAA,8.0,0.1,0.8,Co-codamol 8mg/500mg tablets,1,8.0,0.8,0.0,1.0
+581,Renocontin 15mg modified-release tablets,0407020ADBRACAS,15.0,2.0,30.0,Oxycodone 15mg modified-release tablets,1,15.0,22.5,-7.5,0.75
+582,Osmanil 12micrograms/hour transdermal patches,0407020A0BLAEAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+583,Diconal tablets,0407020H0BBAAAB,10.0,0.5,5.0,Dipipanone 10mg / Cyclizine 30mg tablets,1,10.0,5.0,0.0,1.0
+584,Codeine 30mg/5ml oral solution,0407020C0AAAPAP,6.0,0.1,0.6,Codeine 30mg/5ml oral solution,1,6.0,0.6,0.0,1.0
+585,Dolocodon PR 10mg tablets,0407020ADBIADAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+586,Oxycodone 5mg / Naloxone 2.5mg modified-release tablets,0407020AFAAACAC,5.0,2.0,10.0,Oxycodone 5mg / Naloxone 2.5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+587,Oxycodone 30mg suppositories,0407020Z0AAAAAA,30.0,2.0,60.0,Oxycodone hydrochloride 30mg suppositories,1,30.0,45.0,-15.0,0.75
+588,Tramadol 100mg modified-release capsules,040702040AAAHAH,100.0,0.1,10.0,Tramadol 100mg modified-release capsules,1,100.0,10.0,0.0,1.0
+589,Oxeltra 10mg modified-release tablets,0407020ADBLAFAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+590,Zamadol SR 100mg capsules,040702040BDACAH,100.0,0.1,10.0,Tramadol 100mg modified-release capsules,1,100.0,10.0,0.0,1.0
+591,Bunov 10micrograms/hour transdermal patches,0407020B0BUABAI,1.68,100.0,168.0,Buprenorphine 10micrograms/hour transdermal patches,1,1.68,168.0,0.0,1.0
+592,Onexila XL 10mg tablets,0407020ADBQAAAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+593,MXL 200mg capsules,0407020Q0BIAFEI,200.0,1.0,200.0,Morphine 200mg modified-release capsules,1,200.0,200.0,0.0,1.0
+594,MST Continus suspension 20mg granules sachets,0407020Q0BBAFCV,20.0,1.0,20.0,Morphine 20mg modified-release granules sachets sugar free,1,20.0,20.0,0.0,1.0
+595,Transtec 35micrograms/hour transdermal patches,0407020B0BDAAAE,3.36,100.0,336.0,Buprenorphine 35micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+596,OxyNorm 20mg/2ml solution for injection ampoules,0407020ADBBAGAM,20.0,2.0,40.0,Oxycodone 20mg/2ml solution for injection ampoules,2,10.0,30.0,-10.0,0.75
+597,Diamorphine 200mg/5ml oral solution,0407020K0AAEQEQ,40.0,1.0,40.0,Diamorphine 200mg/5ml oral solution,1,40.0,40.0,0.0,1.0
+598,Buprenorphine 10micrograms/hour transdermal patches,0407020B0AAAIAI,1.68,100.0,168.0,Buprenorphine 10micrograms/hour transdermal patches,1,1.68,168.0,0.0,1.0
+599,Mylafent 25micrograms/hour transdermal patches,0407020A0BUABAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+600,Methadone 5mg tablets,0407020M0AAAEAE,5.0,3.0,15.0,Methadone 5mg tablets,1,5.0,15.0,0.0,1.0
+601,Zapain 30mg/500mg capsules,0407010F0BSABAD,30.0,0.1,3.0,Co-codamol 30mg/500mg capsules,1,30.0,3.0,0.0,1.0
+602,Fentanyl 200microgram buccal tablets sugar free,0407020A0AABDBD,0.2,130.0,26.0,Fentanyl 200microgram buccal tablets sugar free,1,0.2,26.0,0.0,1.0
+603,Pethidine 50mg/1ml solution for injection ampoules,0407020V0AAAAAA,50.0,0.24,12.0,Pethidine 50mg/1ml solution for injection ampoules,1,50.0,12.0,0.0,1.0
+604,Matrifen 50micrograms/hour transdermal patches,0407020A0BEACAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+605,Tylex 30mg/500mg capsules,0407010F0BEAAAD,30.0,0.1,3.0,Co-codamol 30mg/500mg capsules,1,30.0,3.0,0.0,1.0
+606,Zydol XL 400mg tablets,040702040BBAJAN,400.0,0.1,40.0,Tramadol 400mg modified-release tablets,1,400.0,40.0,0.0,1.0
+607,Abtard 60mg modified-release tablets,0407020ADBMAGAQ,60.0,2.0,120.0,Oxycodone 60mg modified-release tablets,1,60.0,90.0,-30.0,0.75
+608,Actiq 600microgram loz with integral oromucosal applicator,0407020A0BCACAK,0.6,100.0,60.0,Fentanyl 600microgram lozenges,1,0.6,78.0,18.0,1.3
+609,Opiodur 100micrograms/hour transdermal patches (Zentiva),0407020A0BRAPAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+610,Morphine sulfate 20mg/5ml oral solution,0407020Q0AADYDY,4.0,1.0,4.0,Morphine sulfate 20mg/5ml oral solution,1,4.0,4.0,0.0,1.0
+611,Co-dydramol 30mg/500mg tablets,0407010N0AAAIAI,30.0,0.1,3.0,Co-dydramol 30mg/500mg tablets,1,30.0,3.0,0.0,1.0
+612,Methadone 40mg/1ml solution for injection ampoules,0407020M0AABKBK,40.0,3.0,120.0,Methadone 40mg/1ml solution for injection ampoules,1,40.0,120.0,0.0,1.0
+613,Methadone 35mg/2ml solution for injection ampoules,0407020M0AABHBH,35.0,3.0,105.0,Methadone 35mg/2ml solution for injection ampoules,2,17.5,52.5,-52.5,0.5
+614,DHC Continus 120mg tablets,0407020G0BBACAF,120.0,0.1,12.0,Dihydrocodeine 120mg modified-release tablets,1,120.0,12.0,0.0,1.0
+615,Tapentadol 150mg modified-release tablets,0407020AGAAAEAE,150.0,0.4,60.0,Tapentadol 150mg modified-release tablets,1,150.0,60.0,0.0,1.0
+616,Yemex 50micrograms/hour transdermal patches,0407020A0BVACAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+617,Zomestine 10mg modified-release tablets,0407020ADBNADAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+618,Leveraxo 20mg modified-release tablets,0407020ADBPACAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+619,Codeine 15mg tablets,0407020C0AAADAD,15.0,0.1,1.5,Codeine 15mg tablets,1,15.0,1.5,0.0,1.0
+620,Co-codaprin 8mg/400mg dispersible tablets,0407010M0AAABAB,8.0,0.1,0.8,Co-codaprin 8mg/400mg dispersible tablets,1,8.0,0.8,0.0,1.0
+621,Sevredol 50mg tablets,0407020Q0BHAFDR,50.0,1.0,50.0,Morphine 50mg tablets,1,50.0,50.0,0.0,1.0
+622,Mabron 100mg modified-release tablets (Teva),040702040BHADAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+623,Methadone 5mg capsules,0407020M0AABUBU,5.0,3.0,15.0,Methadone 5mg capsules,1,5.0,15.0,0.0,1.0
+624,Longtec 40mg modified-release tablets,0407020ADBEADAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+625,Palladone 1.3mg capsules,040702050BBAAAE,1.3,5.0,6.5,Hydromorphone 1.3mg capsules,1,1.3,6.5,0.0,1.0
+626,Diamorphine 10mg powder for solution for injection vials,0407020K0AAEGEG,10.0,3.0,30.0,Diamorphine 10mg powder for solution for injection vials,1,10.0,30.0,0.0,1.0
+627,Ixyldone 20mg modified-release tablets,0407020ADBTADAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+628,Methadone 30mg capsules,0407020M0AABIBI,30.0,3.0,90.0,Methadone 30mg capsules,1,30.0,90.0,0.0,1.0
+629,Co-dydramol 10mg/500mg oral powder sachets,0407010N0AAAFAF,10.0,0.1,1.0,,,,,,
+630,Fentanyl 800microgram lozenges,0407020A0AAALAL,0.8,100.0,80.0,Fentanyl 800microgram lozenges,1,0.8,104.0,24.0,1.3
+631,Tilofyl 25micrograms/hour transdermal patches,0407020A0BDAAAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+632,Palladone SR 4mg capsules,040702050BBADAG,4.0,5.0,20.0,Hydromorphone 4mg modified-release capsules,1,4.0,20.0,0.0,1.0
+633,Fentanyl 400micrograms/dose nasal spray,0407020A0AABPBP,3.2,160.0,512.0,Fentanyl 400micrograms/dose nasal spray,1,0.4,64.0,-448.0,0.125
+634,Co-proxamol 32.5mg/325mg/5ml oral suspension,0407010Q0AAADAD,6.5,0.1,0.65,Co-proxamol 32.5mg/325mg/5ml oral suspension,1,6.5,0.65,0.0,1.0
+635,Buprenorphine 5micrograms/hour transdermal patches,0407020B0AAAHAH,0.84,100.0,84.0,Buprenorphine 5micrograms/hour transdermal patches,1,0.84,84.0,0.0,1.0
+636,Reletrans 10micrograms/hour transdermal patches,0407020B0BKABAI,1.68,100.0,168.0,Buprenorphine 10micrograms/hour transdermal patches,1,1.68,168.0,0.0,1.0
+637,Oxycodone 50mg/1ml solution for injection ampoules,0407020ADAAANAN,50.0,2.0,100.0,Oxycodone 50mg/1ml solution for injection ampoules,1,50.0,150.0,50.0,1.5
+638,Diamorphine 30mg powder for solution for injection ampoules,0407020K0AAAEAE,30.0,3.0,90.0,Diamorphine 30mg powder for solution for injection ampoules,1,30.0,90.0,0.0,1.0
+639,Yemex 75micrograms/hour transdermal patches,0407020A0BVADAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+640,Leveraxo 30mg modified-release tablets,0407020ADBPADAR,30.0,2.0,60.0,Oxycodone 30mg modified-release tablets,1,30.0,45.0,-15.0,0.75
+641,Co-proxamol 32.5mg/325mg tablets,0407010Q0AAAAAA,32.5,0.1,3.25,Co-proxamol 32.5mg/325mg tablets,1,32.5,3.25,0.0,1.0
+642,Oxycodone 5mg/5ml oral solution sugar free,0407020ADAAAAAA,1.0,2.0,2.0,Oxycodone 5mg/5ml oral solution sugar free,5,1.0,1.5,-0.5,0.75
+643,Fentanyl 100microgram buccal tablets sugar free,0407020A0AABCBC,0.1,130.0,13.0,Fentanyl 100microgram buccal tablets sugar free,1,0.1,13.0,0.0,1.0
+644,Marol 150mg modified-release tablets (Morningside),040702040BNABAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+645,OxyContin 120mg modified-release tablets,0407020ADBCAFAP,120.0,2.0,240.0,Oxycodone 120mg modified-release tablets,1,120.0,180.0,-60.0,0.75
+646,Morphine sulfate 50mg suppositories,0407020Q0AABVBV,50.0,1.0,50.0,Morphine sulfate 50mg suppositories,1,50.0,50.0,0.0,1.0
+647,MST Continus 200mg tablets,0407020Q0BBAEAG,200.0,1.0,200.0,Morphine 200mg modified-release tablets,1,200.0,200.0,0.0,1.0
+648,Transtec 70micrograms/hour transdermal patches,0407020B0BDACAG,6.72,100.0,672.0,Buprenorphine 70micrograms/hour transdermal patches,1,6.72,672.0,0.0,1.0
+649,Panitaz 10micrograms/hour transdermal patches,0407020B0BLABAI,1.68,100.0,168.0,Buprenorphine 10micrograms/hour transdermal patches,1,1.68,168.0,0.0,1.0
+650,Effentora 100microgram buccal tablets,0407020A0BKAABC,0.1,130.0,13.0,Fentanyl 100microgram buccal tablets sugar free,1,0.1,13.0,0.0,1.0
+651,Aceon 200mg modified-release tablets,040702040BRACAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+652,Reltebon 40mg modified-release tablets,0407020ADBKADAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+653,Opiodur 100micrograms/hour transdermal patches (RX Farma),0407020A0BRAJAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+654,Fentanyl 200microgram buccal films sugar free,0407020A0AABTBT,0.2,180.0,36.0,Fentanyl 200microgram buccal films sugar free,1,0.2,26.0,-10.0,0.7222222222222222
+655,Tramake 50mg capsules,040702040BCAAAA,50.0,0.1,5.0,Tramadol 50mg capsules,1,50.0,5.0,0.0,1.0
+656,Meptazinol 100mg/1ml solution for injection ampoules,0407020L0AAAAAA,100.0,0.03,3.0,Meptazinol 100mg/1ml solution for injection ampoules,1,100.0,3.0,0.0,1.0
+657,Mezolar Matrix 75micrograms/hour transdermal patches,0407020A0BFADAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+658,Zeridame SR 200mg tablets,040702040BLACAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+659,Codeine 60mg/5ml oral solution,0407020C0AAAVAV,12.0,0.1,1.2,Codeine 60mg/5ml oral solution,1,12.0,1.2,0.0,1.0
+660,Butec 15micrograms/hour transdermal patches,0407020B0BHADAK,2.52,100.0,252.0,Buprenorphine 15micrograms/hour transdermal patches,1,2.52,252.0,0.0,1.0
+661,Abtard 80mg modified-release tablets,0407020ADBMAHAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+662,Actiq 1.2mg lozenges with integral oromucosal applicator,0407020A0BCAEAN,1.2,100.0,120.0,Fentanyl 1.2mg lozenges,1,1.2,156.0,36.0,1.3
+663,Shortec 50mg/1ml solution for injection ampoules,0407020ADBJAFAN,50.0,2.0,100.0,Oxycodone 50mg/1ml solution for injection ampoules,1,50.0,150.0,50.0,1.5
+664,Carexil 5mg modified-release tablets,0407020ADBDAAAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+665,Leveraxo 40mg modified-release tablets,0407020ADBPAEAH,40.0,2.0,80.0,Oxycodone 40mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+666,Oxycodone 20mg capsules,0407020ADAAAEAE,20.0,2.0,40.0,Oxycodone 20mg capsules,1,20.0,30.0,-10.0,0.75
+667,Dromadol SR 150mg tablets,040702040BEACAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+668,Osmach 25micrograms/hour transdermal patches,0407020A0BHAAAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+669,Dromadol XL 200mg tablets,040702040BEAFAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+670,Morphine sulfate 3.35mg/5ml oral solution,0407020Q0AAFBFB,0.67,1.0,0.67,Morphine sulfate 3.35mg/5ml oral solution,1,0.67,0.67,0.0,1.0
+671,Reletrans 5micrograms/hour transdermal patches,0407020B0BKAAAH,0.84,100.0,84.0,Buprenorphine 5micrograms/hour transdermal patches,1,0.84,84.0,0.0,1.0
+672,Onexila XL 80mg tablets,0407020ADBQADAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+673,Onexila XL 20mg tablets,0407020ADBQABAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+674,Renocontin 20mg modified-release tablets,0407020ADBRADAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+675,Shortec 20mg/2ml solution for injection ampoules,0407020ADBJAEAM,20.0,2.0,40.0,Oxycodone 20mg/2ml solution for injection ampoules,2,10.0,30.0,-10.0,0.75
+676,Morphine sulfate 1.5mg/5ml oral solution,0407020Q0AAFGFG,0.3,1.0,0.3,Morphine sulfate 1.5mg/5ml oral solution,1,0.3,0.3,0.0,1.0
+677,Trapadex 37.5mg/325mg tablets,040702040BYAAAU,37.5,0.1,3.75,Tramadol 37.5mg / Paracetamol 325mg tablets,1,37.5,3.75,0.0,1.0
+678,Maxitram SR 100mg capsules,040702040BPABAH,100.0,0.1,10.0,Tramadol 100mg modified-release capsules,1,100.0,10.0,0.0,1.0
+679,Diamorphine 10mg/5ml oral solution,0407020K0AADIDI,2.0,1.0,2.0,Diamorphine 10mg/5ml oral solution,1,2.0,2.0,0.0,1.0
+680,Diamorphine 180mg/5ml oral solution,0407020K0AADVDV,36.0,1.0,36.0,Diamorphine 180mg/5ml oral solution,1,36.0,36.0,0.0,1.0
+681,Butec 10micrograms/hour transdermal patches,0407020B0BHABAI,1.68,100.0,168.0,Buprenorphine 10micrograms/hour transdermal patches,1,1.68,168.0,0.0,1.0
+682,OxyContin 10mg modified-release tablets,0407020ADBCAAAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+683,Tramadol 75mg / Paracetamol 650mg tablets,040702040AABCBC,75.0,0.1,7.5,Tramadol 75mg / Paracetamol 650mg tablets,1,75.0,7.5,0.0,1.0
+684,Brimisol PR 200mg tablets,040702040BWABAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+685,Sevredol 10mg/5ml oral solution,0407020Q0BHAGCN,2.0,1.0,2.0,Morphine sulfate 10mg/5ml oral solution,5,2.0,2.0,0.0,1.0
+686,Maxitram SR 200mg capsules,040702040BPADAJ,200.0,0.1,20.0,Tramadol 200mg modified-release capsules,1,200.0,20.0,0.0,1.0
+687,Ixyldone 30mg modified-release tablets,0407020ADBTAEAR,30.0,2.0,60.0,Oxycodone 30mg modified-release tablets,1,30.0,45.0,-15.0,0.75
+688,Actiq 400microgram loz with integral oromucosal applicator,0407020A0BCABAJ,0.4,100.0,40.0,Fentanyl 400microgram lozenges,1,0.4,52.0,12.0,1.3
+689,Oramorph 10mg/5ml oral solution,0407020Q0BCAGCN,2.0,1.0,2.0,Morphine sulfate 10mg/5ml oral solution,5,2.0,2.0,0.0,1.0
+690,Durogesic DTrans 50micrograms/hour transdermal patches,0407020A0BBAJAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+691,Marol 200mg modified-release tablets (Morningside),040702040BNACAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+692,Diamorphine 50mg impregnated cigarettes,0407020K0AADLDL,,,0.0,Diamorphine 50mg impregnated cigarettes,1,50.0,50.0,50.0,inf
+693,Co-codamol 8mg/500mg/5ml oral liquid,0407010F0AAASAS,1.6,0.1,0.16,Co-codamol 8mg/500mg/5ml oral suspension,1,1.6,0.16,0.0,1.0
+694,Co-codamol 8mg/500mg/5ml oral liquid,0407010F0AAASAS,1.6,0.1,0.16,Co-codamol 8mg/500mg/5ml oral solution,1,1.6,0.16,0.0,1.0
+695,Fentanyl 25micrograms/hour transdermal patches,0407020A0AAAEAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+696,Buprenorphine 70micrograms/hour transdermal patches,0407020B0AAAGAG,6.72,100.0,672.0,Buprenorphine 70micrograms/hour transdermal patches,1,6.72,672.0,0.0,1.0
+697,Oxeltra 80mg modified-release tablets,0407020ADBLABAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+698,Reltebon 80mg modified-release tablets,0407020ADBKAEAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+699,Mabron 200mg modified-release tablets (Teva),040702040BHAFAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+700,Oxypro 80mg modified-release tablets,0407020ADBSAHAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+701,Solpadol 30mg/500mg effervescent tablets,0407010F0BGAAAF,30.0,0.1,3.0,Co-codamol 30mg/500mg effervescent tablets,1,30.0,3.0,0.0,1.0
+702,Tilofyl 100micrograms/hour transdermal patches,0407020A0BDADAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+703,Hydromorphone 4mg modified-release capsules,040702050AAAGAG,4.0,5.0,20.0,Hydromorphone 4mg modified-release capsules,1,4.0,20.0,0.0,1.0
+704,Durogesic DTrans 12micrograms/hour transdermal patches,0407020A0BBAMAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+705,Shortec 10mg/1ml solution for injection ampoules,0407020ADBJADAL,10.0,2.0,20.0,Oxycodone 10mg/1ml solution for injection ampoules,1,10.0,30.0,10.0,1.5
+706,Zamadol 24hr 400mg modified-release tablets,040702040BDAKAN,400.0,0.1,40.0,Tramadol 400mg modified-release tablets,1,400.0,40.0,0.0,1.0
+707,Dihydrocodeine 15mg/5ml oral solution,0407020G0AAANAN,3.0,0.1,0.3,Dihydrocodeine 15mg/5ml oral solution,1,3.0,0.3,0.0,1.0
+708,Methadone 10mg/1ml solution for injection ampoules,0407020M0AAAVAV,10.0,3.0,30.0,Methadone 10mg/1ml solution for injection ampoules,1,10.0,30.0,0.0,1.0
+709,Codeine 5mg/5ml oral liquid,0407020C0AAAXAX,1.0,0.1,0.1,Codeine 5mg/5ml oral solution,1,1.0,0.1,0.0,1.0
+710,Codeine 5mg/5ml oral liquid,0407020C0AAAXAX,1.0,0.1,0.1,Codeine 5mg/5ml oral suspension,1,1.0,0.1,0.0,1.0
+711,Bupeaze 35micrograms/hour transdermal patches,0407020B0BIAAAE,3.36,100.0,336.0,Buprenorphine 35micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+712,Buplast 35micrograms/hour transdermal patches,0407020B0BNAAAE,3.36,100.0,336.0,Buprenorphine 35micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+713,Ixyldone 15mg modified-release tablets,0407020ADBTACAS,15.0,2.0,30.0,Oxycodone 15mg modified-release tablets,1,15.0,22.5,-7.5,0.75
+714,Co-codamol 30mg/500mg tablets,0407010F0AAAHAH,30.0,0.1,3.0,Co-codamol 30mg/500mg tablets,1,30.0,3.0,0.0,1.0
+715,Pentazocine 25mg tablets,0407020T0AAABAB,25.0,0.37,9.25,Pentazocine 25mg tablets,1,25.0,9.25,0.0,1.0
+716,Butec 20micrograms/hour transdermal patches,0407020B0BHACAJ,3.36,100.0,336.0,Buprenorphine 20micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+717,Oxycodone 5mg capsules,0407020ADAAACAC,5.0,2.0,10.0,Oxycodone 5mg capsules,1,5.0,7.5,-2.5,0.75
+718,Emcozin 30mg/500mg tablets,0407010F0BYAAAH,30.0,0.1,3.0,Co-codamol 30mg/500mg tablets,1,30.0,3.0,0.0,1.0
+719,PecFent 100micrograms/dose nasal spray,0407020A0BPAABJ,1.0,160.0,160.0,Fentanyl 100micrograms/dose nasal spray,1,0.1,16.0,-144.0,0.1
+720,Opiodur 25micrograms/hour transdermal patches (RX Farma),0407020A0BRAGAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+721,Opiodur 75micrograms/hour transdermal patches (Zentiva),0407020A0BRANAG,5.4,100.0,540.0,Fentanyl 75micrograms/hour transdermal patches,1,5.4,540.0,0.0,1.0
+722,Cynril 400microgram loz with integral oromucosal applicator,0407020A0BWABAJ,0.4,100.0,40.0,Fentanyl 400microgram lozenges,1,0.4,52.0,12.0,1.3
+723,Fentanyl 400microgram buccal films sugar free,0407020A0AABUBU,0.4,180.0,72.0,Fentanyl 400microgram buccal films sugar free,1,0.4,52.0,-20.0,0.7222222222222222
+724,Morphine hydrochloride 1mg/1ml inj ampoules,0407020P0AABBBB,1.0,2.0,2.0,Morphine hydrochloride 1mg/1ml solution for injection ampoules,1,1.0,2.0,0.0,1.0
+725,Morphine sulfate 15mg/1ml solution for injection ampoules,0407020Q0AAACAC,15.0,2.0,30.0,Morphine sulfate 15mg/1ml solution for injection ampoules,1,15.0,30.0,0.0,1.0
+726,Actiq 1.6mg lozenges with integral oromucosal applicator,0407020A0BCAFAP,1.6,100.0,160.0,Fentanyl 1.6mg lozenges,1,1.6,208.0,48.0,1.3
+727,Codeine 30mg suppositories,0407020C0AAASAS,30.0,0.1,3.0,Codeine 30mg suppositories,1,30.0,3.0,0.0,1.0
+728,Morphine sulfate 5mg/10ml solution for injection ampoules,0407020Q0AAA8A8,5.0,2.0,10.0,Morphine sulfate 5mg/10ml solution for injection ampoules,10,0.5,1.0,-9.0,0.1
+729,Shortec 10mg capsules,0407020ADBJABAD,10.0,2.0,20.0,Oxycodone 10mg capsules,1,10.0,15.0,-5.0,0.75
+730,Reltebon 20mg modified-release tablets,0407020ADBKACAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+731,Cyclimorph 15 solution for injection 1ml ampoules,040702020BBABAB,15.0,2.0,30.0,Morphine tartrate 15mg/1ml / Cyclizine tartrate 50mg/1ml solution for injection ampoules,1,15.0,30.0,0.0,1.0
+732,Renocontin 60mg modified-release tablets,0407020ADBRAGAQ,60.0,2.0,120.0,Oxycodone 60mg modified-release tablets,1,60.0,90.0,-30.0,0.75
+733,Osmanil 25micrograms/hour transdermal patches,0407020A0BLAAAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+734,Fentalis Reservoir 25micrograms/hour transdermal patches,0407020A0BGAAAE,1.8,100.0,180.0,Fentanyl 25micrograms/hour transdermal patches,1,1.8,180.0,0.0,1.0
+735,Oxycodone 60mg modified-release tablets,0407020ADAAAQAQ,60.0,2.0,120.0,Oxycodone 60mg modified-release tablets,1,60.0,90.0,-30.0,0.75
+736,Fentanyl 600microgram lozenges,0407020A0AAAKAK,0.6,100.0,60.0,Fentanyl 600microgram lozenges,1,0.6,78.0,18.0,1.3
+737,Invodol SR 200mg tablets,040702040BTACAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+738,Maneo 200mg modified-release tablets,040702040BUACAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+739,Larapam SR 200mg tablets,040702040BGACAE,200.0,0.1,20.0,Tramadol 200mg modified-release tablets,1,200.0,20.0,0.0,1.0
+740,Fentanyl 400microgram buccal tablets sugar free,0407020A0AABEBE,0.4,130.0,52.0,Fentanyl 400microgram buccal tablets sugar free,1,0.4,52.0,0.0,1.0
+741,Dextropropoxyphene 60mg capsules,0407020E0AAAAAA,60.0,0.1,6.0,Dextropropoxyphene 60mg capsules,1,60.0,6.0,0.0,1.0
+742,Longtec 5mg modified-release tablets,0407020ADBEAAAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+743,Mylafent 100micrograms/hour transdermal patches,0407020A0BUAEAH,7.2,100.0,720.0,Fentanyl 100micrograms/hour transdermal patches,1,7.2,720.0,0.0,1.0
+744,Larapam SR 150mg tablets,040702040BGABAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+745,Dolocodon PR 5mg tablets,0407020ADBIACAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+746,Methadone hydrochloride powder,0407020M0AAAFAF,,,0.0,,,,,,
+747,Hapoctasin 52.5micrograms/hour transdermal patches,0407020B0BGABAF,5.04,100.0,504.0,Buprenorphine 52.5micrograms/hour transdermal patches,1,5.04,504.0,0.0,1.0
+748,Methadone 100mg capsules,0407020M0AABMBM,100.0,3.0,300.0,Methadone 100mg capsules,1,100.0,300.0,0.0,1.0
+749,Renocontin 5mg modified-release tablets,0407020ADBRAAAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+750,Ixyldone 10mg modified-release tablets,0407020ADBTABAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+751,Palexia 20mg/ml oral solution,0407020AGBBAHAH,20.0,0.4,8.0,Tapentadol 20mg/ml oral solution sugar free,1,20.0,8.0,0.0,1.0
+752,Carlosafine 35micrograms/hour transdermal patches,0407020B0BTAAAE,3.36,100.0,336.0,Buprenorphine 35micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+753,Palfium 5mg tablets,0407020D0BBAAAD,5.0,4.0,20.0,Dextromoramide 5mg tablets,1,5.0,20.0,0.0,1.0
+754,Zomorph 100mg modified-release capsules,0407020Q0BKADEB,100.0,1.0,100.0,Morphine 100mg modified-release capsules,1,100.0,100.0,0.0,1.0
+755,Pamergan P100 solution for injection 2ml ampoules,0407020V0BCAAAI,100.0,0.24,24.0,Pethidine 100mg/2ml / Promethazine 50mg/2ml solution for injection ampoules,2,50.0,12.0,-12.0,0.5
+756,Pethidine 25mg/5ml oral solution,0407020V0AAARAR,5.0,0.1,0.5,Pethidine 25mg/5ml oral solution,1,5.0,0.5,0.0,1.0
+757,Oxypro 10mg modified-release tablets,0407020ADBSABAF,10.0,2.0,20.0,Oxycodone 10mg modified-release tablets,1,10.0,15.0,-5.0,0.75
+758,Turgeon 70micrograms/hour transdermal patches,0407020B0BSACAG,6.72,100.0,672.0,Buprenorphine 70micrograms/hour transdermal patches,1,6.72,672.0,0.0,1.0
+759,Tapentadol 20mg/ml oral solution sugar free,0407020AGAAAHAH,20.0,0.4,8.0,Tapentadol 20mg/ml oral solution sugar free,1,20.0,8.0,0.0,1.0
+760,Abtard 5mg modified-release tablets,0407020ADBMAAAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+761,Hydromorphone 2mg/1ml solution for injection ampoules,040702050AAALAL,2.0,5.0,10.0,Hydromorphone 2mg/1ml solution for injection ampoules,1,2.0,10.0,0.0,1.0
+762,Mylafent 50micrograms/hour transdermal patches,0407020A0BUACAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+763,Morphine sulfate 50mg/5ml oral solution,0407020Q0AADKDK,10.0,1.0,10.0,Morphine sulfate 50mg/5ml oral solution,1,10.0,10.0,0.0,1.0
+764,Diamorphine 30mg/5ml oral solution,0407020K0AAEAEA,6.0,1.0,6.0,Diamorphine 30mg/5ml oral solution,1,6.0,6.0,0.0,1.0
+765,Sevodyne 20micrograms/hour transdermal patches,0407020B0BMACAJ,3.36,100.0,336.0,Buprenorphine 20micrograms/hour transdermal patches,1,3.36,336.0,0.0,1.0
+766,Bupramyl 5micrograms/hour transdermal patches,0407020B0BQAAAH,0.84,100.0,84.0,Buprenorphine 5micrograms/hour transdermal patches,1,0.84,84.0,0.0,1.0
+767,Yemex 12micrograms/hour transdermal patches,0407020A0BVAAAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+768,Renocontin 30mg modified-release tablets,0407020ADBRAEAR,30.0,2.0,60.0,Oxycodone 30mg modified-release tablets,1,30.0,45.0,-15.0,0.75
+769,Ixyldone 80mg modified-release tablets,0407020ADBTAHAI,80.0,2.0,160.0,Oxycodone 80mg modified-release tablets,1,80.0,120.0,-40.0,0.75
+770,Bepro 6.75mg/5ml syrup,0407020C0BBAABA,1.35,0.1,0.135,Codeine 6.75mg/5ml oral solution,5,1.35,0.14,0.0,1.037037037037037
+771,Oxyargin 40mg/20mg modified-release tablets,0407020AFBDADAD,40.0,2.0,80.0,Oxycodone 40mg / Naloxone 20mg modified-release tablets,1,40.0,60.0,-20.0,0.75
+772,Zomestine 20mg modified-release tablets,0407020ADBNAEAG,20.0,2.0,40.0,Oxycodone 20mg modified-release tablets,1,20.0,30.0,-10.0,0.75
+773,Morphine sulfate 100mg/50ml inf pre-filled syringes,0407020Q0AAFTFT,100.0,2.0,200.0,Morphine sulfate 100mg/50ml solution for infusion pre-filled syringes,50,2.0,4.0,-196.0,0.02
+774,Abtard 15mg modified-release tablets,0407020ADBMACAS,15.0,2.0,30.0,Oxycodone 15mg modified-release tablets,1,15.0,22.5,-7.5,0.75
+775,Maneo 100mg modified-release tablets,040702040BUAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+776,Instanyl 100micrograms/dose nasal spray,0407020A0BNAHBJ,1.0,160.0,160.0,Fentanyl 100micrograms/dose nasal spray,1,0.1,16.0,-144.0,0.1
+777,Oxypro 30mg modified-release tablets,0407020ADBSAEAR,30.0,2.0,60.0,Oxycodone 30mg modified-release tablets,1,30.0,45.0,-15.0,0.75
+778,Opiodur 50micrograms/hour transdermal patches (RX Farma),0407020A0BRAHAF,3.6,100.0,360.0,Fentanyl 50micrograms/hour transdermal patches,1,3.6,360.0,0.0,1.0
+779,Methadone 10mg capsules,0407020M0AAAKAK,10.0,3.0,30.0,Methadone 10mg capsules,1,10.0,30.0,0.0,1.0
+780,Morphine hydrochloride 20mg/5ml oral solution,0407020P0AAAYAY,4.0,1.0,4.0,Morphine hydrochloride 20mg/5ml oral solution,1,4.0,4.0,0.0,1.0
+781,Pethidine 100mg/10ml solution for injection ampoules,0407020V0AAALAL,100.0,0.24,24.0,Pethidine 100mg/10ml solution for injection ampoules,10,10.0,2.4,-21.6,0.09999999999999999
+782,Morphine sulfate 4mg/10ml solution for injection ampoules,0407020Q0AAA5A5,4.0,2.0,8.0,Morphine sulfate 4mg/10ml solution for injection ampoules,10,0.4,0.8,-7.2,0.1
+783,Zomestine 5mg modified-release tablets,0407020ADBNACAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+784,Ixyldone 5mg modified-release tablets,0407020ADBTAAAK,5.0,2.0,10.0,Oxycodone 5mg modified-release tablets,1,5.0,7.5,-2.5,0.75
+785,Hydromorphone 2.6mg capsules,040702050AAADAD,2.6,5.0,13.0,Hydromorphone 2.6mg capsules,1,2.6,13.0,0.0,1.0
+786,Aceon 100mg modified-release tablets,040702040BRAAAC,100.0,0.1,10.0,Tramadol 100mg modified-release tablets,1,100.0,10.0,0.0,1.0
+787,Pethidine 100mg/1ml solution for injection ampoules,0407020V0AAAXAX,100.0,0.24,24.0,Pethidine 100mg/1ml solution for injection ampoules,1,100.0,24.0,0.0,1.0
+788,Shortec 20mg capsules,0407020ADBJACAE,20.0,2.0,40.0,Oxycodone 20mg capsules,1,20.0,30.0,-10.0,0.75
+789,Mezolar Matrix 37.5microgram/hour transdermal patches,0407020A0BFAFBW,0.3,100.0,30.0,Fentanyl 37.5microgram/hour transdermal patches,1,2.7,270.0,240.0,9.0
+790,Opiodur 12micrograms/hour transdermal patches (Zentiva),0407020A0BRAKAU,0.864,100.0,86.4,Fentanyl 12micrograms/hour transdermal patches,1,0.864,86.4,0.0,1.0
+791,Maneo 150mg modified-release tablets,040702040BUABAD,150.0,0.1,15.0,Tramadol 150mg modified-release tablets,1,150.0,15.0,0.0,1.0
+792,Recivit 133microgram sublingual tablets,0407020A0BTAABX,0.133,130.0,17.29,Fentanyl 133microgram sublingual tablets sugar free,1,0.133,17.29,0.0,1.0
+793,,040702050AAAMAM,,,,Hydromorphone 20mg/1ml solution for injection ampoules,1,20.0,100.0,,
+794,,0407010F0AAAWAW,,,,Co-codamol 15mg/500mg effervescent tablets sugar free,1,15.0,1.5,,
+795,,0407020ADAAAUAU,,,,Oxycodone 10mg tablets,1,10.0,15.0,,
+796,,0410030C0AABFBF,,,,Methadone 12.5mg/5ml oral suspension,1,2.5,7.5,,
+797,,0410030C0AABFBF,,,,Methadone 12.5mg/5ml oral solution,1,2.5,7.5,,
+798,,0309010S0AAAAAA,,,,Methadone 2mg/5ml linctus,5,0.4,1.2,,
+799,,0407010X0AAAYAY,,,,Generic Ultramol Soluble tablets sugar free,1,8.0,0.8,,
+800,,0410030C0BBABBB,,,,Methadone 20mg/ml oral solution sugar free,1,20.0,60.0,,
+801,,0407010W0BHAAAD,,,,Aspirin 500mg / Codeine 8mg dispersible tablets sugar free,1,8.0,0.8,,
+802,,0407020A0BTACBY,,,,Fentanyl 533microgram sublingual tablets sugar free,1,0.533,69.29,,
+803,,1501043A0AAAFAF,,,,Alfentanil 500micrograms/1ml solution for injection ampoules,1,0.5,15.0,,
+804,,0407010F0AAAVAV,,,,Co-codamol 15mg/500mg capsules,1,15.0,1.5,,
+805,,1001010J0CFADAY,,,,Ibuprofen 200mg / Codeine 12.8mg tablets,1,12.8,1.28,,
+806,,0410030A0BEADAJ,,,,Buprenorphine 6mg sublingual tablets sugar free,1,6.0,360.0,,
+807,,0309010C0BBAAAD,,,,Codeine 15mg/5ml linctus sugar free,5,3.0,0.3,,
+808,,0407010N0AAAKAK,,,,Co-dydramol 7.46mg/500mg effervescent tablets sugar free,1,7.46,0.75,,
+809,,0410030A0BDAAAD,,,,Buprenorphine 2mg sublingual tablets sugar free,1,2.0,120.0,,
+810,,0410030A0BCACAE,,,,Buprenorphine 8mg sublingual tablets sugar free,1,8.0,480.0,,
+811,,0410030A0AAALAL,,,,Buprenorphine 2mg oral lyophilisates sugar free,1,2.0,120.0,,
+812,,0410030B0BBAAAA,,,,Buprenorphine 8mg / Naloxone 2mg sublingual tablets sugar free,1,8.0,480.0,,
+813,,040702040AABDBD,,,,Tramadol 75mg / Dexketoprofen 25mg tablets,1,75.0,7.5,,
+814,,0410030C0AAAZAZ,,,,Methadone 4mg/5ml oral suspension,1,0.8,2.4,,
+815,,0410030C0AAAZAZ,,,,Methadone 4mg/5ml oral solution,1,0.8,2.4,,
+816,,0309010N0AAAHAH,,,,Diamorphine 2.5mg/5ml oral solution,1,0.5,0.5,,
+817,,0407041A0BBABAG,,,,Generic Migraleve Pink tablets,1,8.0,0.8,,
+818,,0407010F0BPAAAP,,,,Co-codamol 12.8mg/500mg tablets,1,12.8,1.28,,
+819,,1501043A0BBAAAB,,,,Alfentanil 1mg/2ml solution for injection ampoules,2,0.5,15.0,,
+820,,0407041A0AAAGAG,,,,Generic Migraleve Pink tablets,1,8.0,0.8,,
+821,,0407010F0BIAAAP,,,,Co-codamol 12.8mg/500mg tablets,1,12.8,1.28,,
+822,,0407010N0AAAJAJ,,,,Co-dydramol 7.46mg/500mg tablets,1,7.46,0.75,,
+823,,0410030A0BDABAE,,,,Buprenorphine 8mg sublingual tablets sugar free,1,8.0,480.0,,
+824,,0309010N0AAAJAJ,,,,Diamorphine 3mg/5ml oral solution,1,0.6,0.6,,
+825,,0407010F0AAAQAQ,,,,Co-codamol 30mg/500mg effervescent powder sachets sugar free,1,30.0,3.0,,
+826,,0407010X0BZAAAY,,,,Generic Ultramol Soluble tablets sugar free,1,8.0,0.8,,
+827,,0407010X0BMAAAJ,,,,Generic Solpadeine Plus tablets,1,8.0,0.8,,
+828,,0407020A0BNAEBL,,,,Fentanyl 200micrograms/dose nasal spray,1,0.2,32.0,,
+829,,0309010C0AAAAAA,,,,Codeine 15mg/5ml linctus,5,3.0,0.3,,
+830,,0407010F0BVACAW,,,,Co-codamol 15mg/500mg effervescent tablets sugar free,1,15.0,1.5,,
+831,,0410030A0AAAMAM,,,,Buprenorphine 8mg oral lyophilisates sugar free,1,8.0,480.0,,
+832,,0410030C0BBAABA,,,,Methadone 10mg/ml oral solution sugar free,1,10.0,30.0,,
+833,,0410030C0AABBBB,,,,Methadone 20mg/ml oral solution sugar free,1,20.0,60.0,,
+834,,0309010C0AAACAC,,,,Codeine 3mg/5ml linctus paediatric,5,0.6,0.06,,
+835,,0407010F0AAAPAP,,,,Co-codamol 12.8mg/500mg tablets,1,12.8,1.28,,
+836,,0309010C0BBABAE,,,,Codeine 3mg/5ml linctus paediatric sugar free,5,0.6,0.06,,
+837,,1501043A0AAABAB,,,,Alfentanil 1mg/2ml solution for injection ampoules,2,0.5,15.0,,
+838,,0410030C0AAAMAM,,,,Methadone 50mg/5ml oral suspension,1,10.0,30.0,,
+839,,0410030C0AAAMAM,,,,Methadone 50mg/5ml oral solution,1,10.0,30.0,,
+840,,0410030C0AABEBE,,,,Methadone 100mg/5ml oral suspension,1,20.0,60.0,,
+841,,0410030C0AABEBE,,,,Methadone 100mg/5ml oral solution,1,20.0,60.0,,
+842,,0410030C0BFAAAA,,,,Methadone 1mg/ml oral solution,1,1.0,3.0,,
+843,,0407020Q0BCAICT,,,,Morphine sulfate 30mg/5ml oral solution unit dose vials sugar free,5,6.0,6.0,,
+844,,1001010J0AAARAR,,,,Ibuprofen 300mg modified-release / Codeine 20mg tablets,1,20.0,2.0,,
+845,,0407020Q0AADSDS,,,,Morphine 30mg capsules,1,30.0,30.0,,
+846,,0104020N0BEABAF,,,,Generic J Collis Browne's tablets,1,0.35,0.35,,
+847,,0407020Q0AAGDGD,,,,Morphine sulfate 15mg suppositories,1,15.0,15.0,,
+848,,0410030C0BFABAF,,,,Methadone 1mg/ml oral solution sugar free,1,1.0,3.0,,
+849,,1001010J0DGAAAY,,,,Ibuprofen 200mg / Codeine 12.8mg tablets,1,12.8,1.28,,
+850,,0410030A0BBABAD,,,,Buprenorphine 2mg sublingual tablets sugar free,1,2.0,120.0,,
+851,,0407010F0AAAZAZ,,,,Co-codamol 30mg/500mg/5ml oral solution sugar free,5,6.0,0.6,,
+852,,0407010N0BHABAJ,,,,Co-dydramol 7.46mg/500mg tablets,1,7.46,0.75,,
+853,,0407010F0BVABAV,,,,Co-codamol 15mg/500mg capsules,1,15.0,1.5,,
+854,,0410030C0AABGBG,,,,Methadone 15mg/5ml oral suspension,1,3.0,9.0,,
+855,,0410030C0AABGBG,,,,Methadone 15mg/5ml oral solution,1,3.0,9.0,,
+856,,0104020N0BBAAAC,,,,Generic Diocalm Dual Action chewable tablets,1,0.395,0.4,,
+857,,0410030A0BEACAI,,,,Buprenorphine 1mg sublingual tablets sugar free,1,1.0,60.0,,
+858,,1001010J0B4AKAY,,,,Ibuprofen 200mg / Codeine 12.8mg tablets,1,12.8,1.28,,
+859,,0407010F0AABABA,,,,Co-codamol 8mg/500mg effervescent tablets sugar free,1,8.0,0.8,,
+860,,0309020X0AAAAAA,,,,Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus,5,3.2,0.32,,
+861,,0410030C0AAAUAU,,,,Methadone 1mg/5ml oral solution,1,0.2,0.6,,
+862,,0410030C0AAAUAU,,,,Methadone 1mg/5ml oral suspension,1,0.2,0.6,,
+863,,0410030A0BCABAD,,,,Buprenorphine 2mg sublingual tablets sugar free,1,2.0,120.0,,
+864,,1501043A0AAAHAH,,,,Alfentanil 25mg/50ml solution for injection vials,50,0.5,15.0,,
+865,,0410030C0BEAAAF,,,,Methadone 1mg/ml oral solution sugar free,1,1.0,3.0,,
+866,,0410030C0AAAQAQ,,,,Methadone 10mg/5ml oral suspension,1,2.0,6.0,,
+867,,0410030C0AAAQAQ,,,,Methadone 10mg/5ml oral solution,1,2.0,6.0,,
+868,,0407010F0AAAYAY,,,,Co-codamol 60mg/1000mg tablets,1,60.0,6.0,,
+869,,0410030B0BBABAB,,,,Buprenorphine 2mg / Naloxone 500microgram sublingual tablets sugar free,1,2.0,120.0,,
+870,,1501043A0BBABAC,,,,Alfentanil 5mg/10ml solution for injection ampoules,10,0.5,15.0,,
+871,,0410030C0AAAFAF,,,,Methadone 1mg/ml oral solution sugar free,1,1.0,3.0,,
+872,,0410030A0AAAIAI,,,,Buprenorphine 1mg sublingual tablets sugar free,1,1.0,60.0,,
+873,,0309020T0AAAHAH,,,,Ipecacuanha and Morphine mixture BP 1980,1,0.092,0.09,,
+874,,0410030B0AAABAB,,,,Buprenorphine 2mg / Naloxone 500microgram sublingual tablets sugar free,1,2.0,120.0,,
+875,,0410030A0BEABAE,,,,Buprenorphine 8mg sublingual tablets sugar free,1,8.0,480.0,,
+876,,0104020N0AAAFAF,,,,Generic J Collis Browne's tablets,1,0.35,0.35,,
+877,,0104020N0AAACAC,,,,Generic Diocalm Dual Action chewable tablets,1,0.395,0.4,,
+878,,0410030C0AAAJAJ,,,,Methadone 1mg/ml oral suspension sugar free,1,1.0,3.0,,
+879,,1501043A0AAACAC,,,,Alfentanil 5mg/10ml solution for injection ampoules,10,0.5,15.0,,
+880,,0407020ADAAAVAV,,,,Oxycodone 20mg tablets,1,20.0,30.0,,
+881,,1001010J0AAAYAY,,,,Ibuprofen 200mg / Codeine 12.8mg tablets,1,12.8,1.28,,
+882,,0410030B0BBACAC,,,,Buprenorphine 16mg / Naloxone 4mg sublingual tablets sugar free,1,16.0,960.0,,
+883,,0410030C0AAAAAA,,,,Methadone 1mg/ml oral solution,1,1.0,3.0,,
+884,,1001010J0BMAEAY,,,,Ibuprofen 200mg / Codeine 12.8mg tablets,1,12.8,1.28,,
+885,,0410030A0AAAJAJ,,,,Buprenorphine 6mg sublingual tablets sugar free,1,6.0,360.0,,
+886,,0407010F0BHABAQ,,,,Co-codamol 30mg/500mg effervescent powder sachets sugar free,1,30.0,3.0,,
+887,,0309010C0AAADAD,,,,Codeine 15mg/5ml linctus sugar free,5,3.0,0.3,,
+888,,0407020A0BNAABH,,,,Fentanyl 50micrograms/dose nasal spray,1,0.05,8.0,,
+889,,0407010W0AAADAD,,,,Aspirin 500mg / Codeine 8mg dispersible tablets sugar free,1,8.0,0.8,,
+890,,0407020ADBUACAT,,,,Oxycodone 5mg tablets,1,5.0,7.5,,
+891,,1001010J0B8AAAR,,,,Ibuprofen 300mg modified-release / Codeine 20mg tablets,1,20.0,2.0,,
+892,,040702050AAAPAP,,,,Hydromorphone 50mg/1ml solution for injection ampoules,1,50.0,250.0,,
+893,,0407020ADBUAAAU,,,,Oxycodone 10mg tablets,1,10.0,15.0,,
+894,,0309010N0AAAKAK,,,,Diamorphine 2mg/5ml oral solution,1,0.4,0.4,,
+895,,0410030A0AAAEAE,,,,Buprenorphine 8mg sublingual tablets sugar free,1,8.0,480.0,,
+896,,0410030A0AAADAD,,,,Buprenorphine 2mg sublingual tablets sugar free,1,2.0,120.0,,
+897,,0407010X0AAAJAJ,,,,Generic Solpadeine Plus tablets,1,8.0,0.8,,
+898,,0104020N0AAABAB,,,,Kaolin and Morphine mixture,1,0.092,0.09,,
+899,,1501043A0AAADAD,,,,Alfentanil 5mg/1ml solution for injection ampoules,1,5.0,150.0,,
+900,,0410030B0AAACAC,,,,Buprenorphine 16mg / Naloxone 4mg sublingual tablets sugar free,1,16.0,960.0,,
+901,,0407020Q0AAGBGB,,,,Morphine sulfate 10mg/5ml oral solution unit dose vials sugar free,5,2.0,2.0,,
+902,,1501043A0AAAEAE,,,,Alfentanil 0.1% nasal spray,1,1.0,30.0,,
+903,,0407010X0BEACAJ,,,,Generic Solpadeine Plus tablets,1,8.0,0.8,,
+904,,0407020Q0AAGCGC,,,,Morphine sulfate 30mg suppositories,1,30.0,30.0,,
+905,,0410030A0BEAEAK,,,,Buprenorphine 4mg sublingual tablets sugar free,1,4.0,240.0,,
+906,,0410030A0BFAAAL,,,,Buprenorphine 2mg oral lyophilisates sugar free,1,2.0,120.0,,
+907,,0410030A0BFABAM,,,,Buprenorphine 8mg oral lyophilisates sugar free,1,8.0,480.0,,
+908,,0410030A0AAAKAK,,,,Buprenorphine 4mg sublingual tablets sugar free,1,4.0,240.0,,
+909,,0410030A0BBACAE,,,,Buprenorphine 8mg sublingual tablets sugar free,1,8.0,480.0,,
+910,,0407020A0BNACBJ,,,,Fentanyl 100micrograms/dose nasal spray,1,0.1,16.0,,
+911,,0309010N0AAAIAI,,,,Diamorphine 1.25mg/5ml oral solution,1,0.25,0.25,,
+912,,0407020ABAAAPAP,,,,Papaveretum 30mg/1ml solution for injection ampoules,1,30.0,231.0,,
+913,,0410030C0AABMBM,,,,Methadone 5mg/ml oral solution,1,5.0,15.0,,
+914,,0410030A0BEAAAD,,,,Buprenorphine 2mg sublingual tablets sugar free,1,2.0,120.0,,
+915,,0407020ADAAATAT,,,,Oxycodone 5mg tablets,1,5.0,7.5,,
+916,,0407010N0BHACAK,,,,Co-dydramol 7.46mg/500mg effervescent tablets sugar free,1,7.46,0.75,,
+917,,1501043A0BBADAD,,,,Alfentanil 5mg/1ml solution for injection ampoules,1,5.0,150.0,,
+918,,040702040BGABAI,,,,Tramadol 150mg modified-release capsules,1,150.0,15.0,,
+919,,040702050BBAKAP,,,,Hydromorphone 50mg/1ml solution for injection ampoules,1,50.0,250.0,,
+920,,0410030C0AABABA,,,,Methadone 10mg/ml oral solution sugar free,1,10.0,30.0,,
+921,,0410030B0AAAAAA,,,,Buprenorphine 8mg / Naloxone 2mg sublingual tablets sugar free,1,8.0,480.0,,
+922,,0309010C0AAAEAE,,,,Codeine 3mg/5ml linctus paediatric sugar free,5,0.6,0.06,,
+923,,040702040BGACAJ,,,,Tramadol 200mg modified-release capsules,1,200.0,20.0,,
+924,,0407020Y0BBAAAA,,,,Nalbuphine 10mg/1ml solution for injection ampoules,1,10.0,10.0,,
