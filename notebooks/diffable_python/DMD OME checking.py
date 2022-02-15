@@ -232,7 +232,7 @@ different = different[different['_merge'] == "both"]
 different = different.sort_values(by='difference_ratio', ascending=False)
 display(different)
 
-# As can be seen the only difference in calculation is in fentanyl lozenges.  This is identifable, as the old presentation-based calculation of an OME of 100, whereas the new methodology uses an OME of 130 for all buccal and oramucosal preparations (excluding films).  As the OMEs are being reviewed to take account of equivalency of a number of drugs, including oxycodone, this is not an issue.
+# As can be seen the only difference in calculation is in fentanyl lozenges This is identifable, as the old presentation-based calculation of an OME of 100, whereas the new methodology uses an OME of 130 for all buccal and oramucosal preparations (excluding films).  As the OMEs are being reviewed to take account of equivalency of a number of drugs, including oxycodone, this is not an issue.
 
 # ### PecFent
 # There is one issue that cannot be resolved via this methodology.  PecFent is fentanyl nasal spray, and comes in 2 pack sizes: 8 and 32.  These are dealt with differently by the NHSBSA.  We asked them about this:
