@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # ---
 # jupyter:
 #   jupytext:
@@ -233,9 +234,50 @@ display(different)
 
 # As can be seen the only difference in calculation is in fentanyl lozenges.  This is identifable, as the old presentation-based calculation of an OME of 100, whereas the new methodology uses an OME of 130 for all buccal and oramucosal preparations (excluding films).  As the OMEs are being reviewed to take account of equivalency of a number of drugs, including oxycodone, this is not an issue.
 
+# ### PecFent
+# There is one issue that cannot be resolved via this methodology.  PecFent is fentanyl nasal spray, and comes in 2 pack sizes: 8 and 32.  These are dealt with differently by the NHSBSA.  We asked them about this:
+#
+# >What we are saying is that this product is listed with 2 different pack sizes:
+# >The 8 dose pack is a special container and is not made up with any sub packs.
+# >However the 32 dose pack is not the special container size and is made up of 4 x 8 subpacks with each sub pack consisting of 8 doses and the 8 dose sub pack is the special container size.
+# >
+# >Where a quantity has been dispensed from the actual 8 dose special container pack then this quantity will be represented as the number of packs and not the number of doses.
+# >
+# >Where the quantity has been dispensed from the 32 dose pack then this quantity will be represented as the number of doses and not the number of sub packs.
+# >
+# >We appreciate that currently the publicly available data is only available at presentation level so we understand that it is not immediately apparent as to the total number of doses but the actual reimbursement is correct.
+# >
+# >Our data will continue to represent the quantity based on what we have outlined above and they are no plans to change this.
+#
+# Consequently we cannot resolve the _actual_ quantity given by the quantity column in the dataset - e.g. if 8 is given from the 8 pack, then quantity = 1, whereas if given from 32 pack, quantity = 8.
+#
+# We have two options:
+# 1) accept there is a data quality issue here, and make explicit the reasons why
+# 2) Amend the SQL to take account of this. To do this, we would take the sum of the net ingredient cost (not actual cost) and divide by £4.56, the price of a single nasal spray for both 100mcg and 400mcg strengths.  This gives a de facto quantity, rather than using the quantity in the quantity column.
+#
+# For the calculation part of the main query, this would then be:
+#
+# ```sql
+# SUM(
+#     ( CASE WHEN rx.bnf_code LIKE '0407020A0%BJ' OR rx.bnf_code LIKE '0407020A0%BP' THEN (net_cost / 4.56 * ome * strnt_nmrtr_val_mg) / coalesce(vpi.strnt_dnmtr_val_ml, 1) --adjust for special container for PecFent and generic fentanyl nasal spray 100mcg and 400mcg (DT price for one nasal spray = £4.56)
+#       WHEN ing.id = 373492002 
+#       AND form.simple_form = 'transdermal' THEN (quantity * ome * vpi.strnt_nmrtr_val_mg * 72)/ coalesce(vpi.strnt_dnmtr_val_ml, 1) --creates 72 hour dose for fentanyl transdermal patches, as doses are per hour on DM+D)
+#       WHEN ing.id = 387173000 
+#       AND form.simple_form = 'transdermal' 
+#       AND vpi.strnt_nmrtr_val IN (5, 10, 15, 20) THEN (quantity * ome * vpi.strnt_nmrtr_val_mg * 168)/ coalesce(vpi.strnt_dnmtr_val_ml, 1) --creates 168 hour (7 day) dose for low-dose buprenorphine patch
+#       WHEN ing.id = 387173000 
+#       AND form.simple_form = 'transdermal' 
+#       AND vpi.strnt_nmrtr_val IN (35, 52.5, 70) THEN (quantity * ome * vpi.strnt_nmrtr_val_mg * 96)/ coalesce(vpi.strnt_dnmtr_val_ml, 1) --creates 96 hour dose for higher-dose buprenorphine patch
+#       WHEN form.simple_form = 'injection' THEN (quantity * ome * vpi.strnt_nmrtr_val_mg * vmp.udfs)/ coalesce(vpi.strnt_dnmtr_val_ml, 1) --injections need to be weighted by pack size
+#       ELSE (quantity * ome * strnt_nmrtr_val_mg) / coalesce(vpi.strnt_dnmtr_val_ml, 1) --all other products have usual dose - coalesce as solid dose forms do not have a denominator
+#       END
+#     )
+#   ) AS ome_dose, 
+# ```
+
 # ### Conclusion
 # The dm+d methodology provides a number of advantages over the previous methodology.  Calculations show that this methodology mainly replicate the old analyses, whilst adding a number of additional opioids.
 #
-# Once the current clinical review of opioid codes is finished, we should use this new methodology to reinstate the currently suspended measure.
+# Once the current clinical review of opioid codes is finished, we should use this new methodology to reinstate the currently suspended measure.  We need to decide how to deal with PecFent.
 
 
